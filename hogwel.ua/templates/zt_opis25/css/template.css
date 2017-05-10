@@ -1,0 +1,208 @@
+/*------------------------------------------------------------------------
+* Copyright (c) 2008-2011 ZooTemplate. All Rights Reserved.
+* Author: ZooTemplate
+* Websites:  http://www.zootemplate.com
+-------------------------------------------------------------------------*/
+
+/* COMMON STYLE
+--------------------------------------------------------- */
+html,body,fieldset {margin: 0;padding: 0;}
+
+body {margin: 0;padding: 0;}
+body#bd {font-family: Arial;color:#595959;}
+
+body.fs1 {font-size: 10px; line-height: 16px;}
+body.fs2 {font-size: 11px; line-height: 17px;}
+body.fs3 {font-size: 12px; line-height: 18px;}
+body.fs4 {font-size: 13px; line-height: 19px;}
+body.fs5 {font-size: 14px; line-height: 20px;}
+body.fs6 {font-size: 15px; line-height: 21px;}
+
+
+/* ZT WRAPPER --------*/
+#zt-wrapper {margin: 0 ;padding: 0;width: 100%;}
+#zt-wrapper-inner {width:100%;}
+.zt-wrapper {width: 960px;margin: 0 auto;}
+
+#zt-userwrap1,
+#zt-userwrap2,
+#zt-userwrap3,
+#zt-userwrap4,
+#zt-userwrap5,
+#zt-userwrap6,
+#zt-userwrap7 {
+	margin: 0;
+	width: 100%;
+	clear: both;
+}
+
+#zt-userwrap1-inner,
+#zt-userwrap2-inner,
+#zt-userwrap3-inner,
+#zt-userwrap4-inner,
+#zt-userwrap5-inner,
+#zt-userwrap6-inner{
+	width: 100%;
+	margin: 0;
+}
+#zt-userwrap2{margin-top:15px;}
+#zt-userwrap4-inner{margin:20px 0 0;}
+#zt-userwrap3-inner,
+#zt-userwrap2-inner{margin: 0px -5px;width: auto;}
+
+/* ZT BREADCRUMBS--------*/
+#zt-breadcrumbs {width:100%;display:inline-block; display:none;}
+#zt-breadcrumbs-inner {padding: 5px 0;margin:0 10px;display:block;}
+
+/* ZT COLSPAN -----------*/
+#zt-colspan1,
+#zt-colspan2 {margin: 0;}
+#zt-colspan1-inner,
+#zt-colspan2-inner {margin: 0 ;display:block;}
+#zt-colspan2-inner {margin-top:10px;}
+
+/* ZT MODULETABLE --------*/
+div.moduletable,
+div.moduletable_menu,
+div.moduletable_text,
+div.module,
+div.module_menu,
+div.module_text ,
+div.moduletable_blank{
+	clear: both;
+	margin: 0 0 10px 0;
+}
+
+.ztmodule {margin-top: 10px; margin: 0 5px;
+  display: block;position:relative;}
+h3.moduletitle {
+	margin: 0; color:#3a3a3a; padding:8px 10px;
+	border: 1px solid #dadada;
+	text-shadow: 1px 1px 1px #fff;
+	position:relative;
+	margin-bottom:-3px;
+	z-index:9;
+	background:url(../images/moduletitle.png) repeat-x 0 0;
+}
+h3.title{ margin: 0; color:#3a3a3a;display:block;text-shadow: 1px 1px 1px #fff;}
+div.modulecontent{display:block;background:#fff;border:1px solid #dadada;padding: 0 10px;}
+div.ztcontent{display:block;padding: 0;}
+
+
+div.modblank{margin:0;}
+div.moduletable_blank h3.moduletitle{margin:0 0 10px 0;}
+div.moduletable_blank div.modulecontent{ padding:0 ;border-radius:0; background:none;border:none;}
+
+/* ZT HEADER
+--------------------------*/
+#zt-colortop{display:block;}
+#zt-colortop-inner{background:url(../images/colortop-opacity.png) no-repeat center top;}
+#zt-header {width: 100%;display: inline-block;margin:15px 0;}
+#zt-header-inner {width: 100%; padding:10px 0;background:#e7e8e8 url(../images/header.png) repeat-x 0 0;}
+
+/* LOGO ---------*/
+#zt-logo {float: left;width: 240px;margin:10px 0;}
+#zt-logo .zt-logo {
+	margin: 0 10px;
+	display: block;
+}
+#zt-logo .zt-logo a {display: block;width: 213px;height: 55px;	background: url(../images/logo.png) no-repeat 0 0;}
+#zt-logo .zt-logo a span {display: none;}
+
+/* TOP MENU ------*/
+#zt-topmenu{float:right;width:50%;margin:10px 0;}
+#zt-topmenu ul.menu { float:right; margin:0;}
+#zt-topmenu ul.menu li {display: inline; background:none;padding: 0px 10px; border-bottom: none;border-right:1px solid #d7d7d7;}
+#zt-topmenu ul.menu li:last-child{border-right: none;}
+#zt-topmenu ul.menu li  a{color:#898989;display:inline-block;}
+#zt-topmenu ul.menu li  a:hover{color:#417BDA;}
+
+/* SEARCH --------*/
+div.search{margin:  0 5px;float: right;}
+div.search .bt-search{
+	padding:0;margin:0;
+	background:url(../images/bt-search.png) no-repeat 0 0;
+	width:35px;height:28px;
+	float:left;
+	border:none;
+	box-shadow:none;
+	text-indent:-999em;display:block;
+}
+#mod_search{float:left;padding:6px 10px;margin: 0 10px;}
+
+/* ZT MAINMENU
+--------------------------*/
+#zt-mainmenu {width: 100%; display: inline-block;}
+#zt-mainmenu-inner {margin: 10px 0 0;padding: 0 10px;display:block; }
+
+
+/* ZT SLIDESHOW
+--------------------------*/
+#zt-slideshow {margin: 15px 0 0 ;width: 100%;}
+#zt-slideshow-inner {margin: 0 ;}
+
+
+/* ZT LAYOUT ----------*/
+.zt-user {float: left;}
+.zt-box-inside {padding: 0;}
+
+#zt-mainframe{width:100%;display:table;}
+#zt-mainframe-inner{padding:0 5px;background:#eaeaea;border:1px solid #f5f5f5;margin-top:10px;}
+#zt-component {margin:  0;width: 100%; display: inline-block;}
+#zt-component-inner {padding: 0 10px; margin:0 5px ; display:block;background:#fff;border:1px solid #DADADA;}
+#page,div.item-page{width:100%;display: inline-block;margin:10px 0;}
+#zt-content div.blog{margin:10px 0;}
+
+/* LEFT CONTENT RIGHT
+--------------------------*/
+#bid {position: absolute; top: 0px; left: -4900px;}
+#zt-container,
+#zt-container-left,
+#zt-container-right,
+#zt-container-full {
+	width: 100%;
+	position: relative;
+	padding:10px 0;
+}
+
+#zt-left {width: 23%;float: left;}
+#zt-content {width: 54%;float: left;}
+#zt-right {width: 23%;float: right;}
+
+#zt-left-inner,
+#zt-right-inner,
+#zt-content-inner {margin: 0;}
+
+#zt-container-left #zt-content {width: 77%;}
+#zt-container-right #zt-content {width:77%}
+#zt-container-full #zt-content {width: 100%;}
+
+.zt-layout-lrc #zt-right {float: left;}
+.zt-layout-lrc #zt-content {float: right;}
+
+.zt-layout-clr #zt-right {float: right;}
+.zt-layout-clr #zt-left {float: right;}
+.zt-layout-clr #zt-content {float: left;}
+
+
+/* Page Class Suffix-----------*/
+
+div.page-pos #zt-left {width: 25%;}
+div.page-pos #zt-content {width: 50%;}
+div.page-pos #zt-right {width: 25%;}
+div.page-pos #zt-userwrap4 .zt-user{width:25% !important;}
+/* ZT FOOTER
+--------------------------*/
+#zt-bottom {width: 100%;display: inline-block;  color:#9da0a8;margin-bottom:10px;}
+#zt-bottom-inner {padding: 20px 0;display:block;background:url(../images/line-hori.png) repeat-x left top;}
+
+#zt-copyright {float: left;width: 50%; }
+#zt-copyright-inner,
+#zt-botmenu-inner{margin: 0 10px;}
+
+#zt-botmenu {float: right;width: 50%;}
+#zt-botmenu ul.menu{margin:0; display:block;text-align:right;}
+#zt-botmenu ul.menu li{display:inline; border-bottom:none;background:none; padding: 0 5px;;}
+#zt-botmenu ul.menu li a{text-transform: none;width:100%; padding: 0 5px;display:inline; color:#417bda;}
+#zt-botmenu ul.menu li a:hover,
+#zt-bottom a:hover{background:none; color:#CF1F18;}

@@ -1,0 +1,35 @@
+/*------------------------------------------------------------------------
+* Copyright (c) 2008-2011 ZooTemplate. All Rights Reserved.
+* @license - Copyrighted Commercial Software
+* Author: ZooTemplate
+* Websites:  http://www.zootemplate.com
+-------------------------------------------------------------------------*/
+
+#menusys_mega li .menu-title{font-family: 'Metrophobic', arial, serif;}
+
+h3.moduletitle ,h3.title,
+h1.listproduct,
+h1.jshop-titleheading, .jshop-pagetitle{
+	font-size: 166.7%;
+	font-weight: normal;
+	font-family: 'Metrophobic', arial, serif;
+}
+
+h2.contentheading,
+h2.componentheading{font-family: 'Metrophobic', arial, serif;}
+
+h1.componentheading, .componentheading{font-family: 'Metrophobic', arial, serif;}
+
+h3.jvcarousel_title{font-family: 'Metrophobic', arial, serif;}
+.subCategory:hover h2 {font-family: 'Metrophobic', arial, serif; }
+
+div.bt-buy{font-family: 'Metrophobic', arial, serif;}
+
+.jvcarousel-item a.readmore,
+.jvcarousel-item a.thebuy{font-family: 'Metrophobic', arial, serif; }
+
+.itemListSubCategories h3{font-family: 'Metrophobic', arial, serif;}
+
+.itemHeader .itemTitle, .genericItemTitle, .catItemHeader .catItemTitle{font-family: 'Metrophobic', arial, serif;}
+
+.itemAuthorBlock .itemAuthorDetails h3.itemAuthorName{font-family: 'Metrophobic', arial, serif;}

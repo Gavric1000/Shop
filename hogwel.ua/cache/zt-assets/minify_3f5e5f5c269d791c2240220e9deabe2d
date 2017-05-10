@@ -1,0 +1,1443 @@
+@import url(http://localhost/hogwel.ua/media/system/css/system.css);@import url('https://fonts.googleapis.com/css?family=Viga:400');.menusys_mega{border:1px
+solid #88c7e7;border-bottom:none;box-shadow:1px 1px 0 #fff;overflow:hidden;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/mega/mainmenu.png) repeat-x}#menusys_mega{margin:4px;float:left}#menusys_mega
+li{padding:0;margin:0
+5px 0 0;float:left;display:block;background:none;border-bottom:none}#menusys_mega li
+a{padding:0
+12px;display:inline-block;text-decoration:none;position:relative;z-index:99;border:1px
+solid transparent}#menusys_mega  li .menu-title{line-height:35px;display:inline-block;color:#095479;font-size:125%;text-shadow:1px 1px 0 #afe3fe;text-transform:uppercase}#menusys_mega li
+a.active{margin:0;border:1px
+solid #2b526b;box-shadow:1px 1px 0 #cce8f5;-moz-box-shadow:inset 0 0 5px #326f94;-webkit-box-shadow:inset 0 0 5px#326f94;box-shadow:inner 0 0 5px #326f94;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/mega/menu-level1.png) repeat-x left top}#menusys_mega li:hover a,
+#menusys_mega li a:hover,
+#menusys_mega li a:active,
+#menusys_mega li a:focus,
+#menusys_mega li a.active:hover,
+#menusys_mega li a.active:active,
+#menusys_mega li a.active:focus{border:1px
+solid #4388b4;box-shadow:none;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/mega/menu-level1.png) repeat-x left bottom #5ca4d1}#menusys_mega li:hover .menu-title,
+#menusys_mega li a:hover .menu-title,
+#menusys_mega li a:active .menu-title,
+#menusys_mega li a:focus .menu-title,
+#menusys_mega li a.active .menu-title,
+#menusys_mega li a.active:hover .menu-title,
+#menusys_mega li a.active:active .menu-title,
+#menusys_mega li a.active:focus .menu-title{color:#fff;text-shadow:none;background:none}#menusys_mega li.hasChild span.no-image,
+#menusys_mega li.hasChild a.active span.no-image{display:block;padding-right:15px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/mega/submenu-1.png) no-repeat right 15px}#menusys_mega li.hasChild:hover a span.no-image,
+#menusys_mega li.hasChild a:hover span.no-image,
+#menusys_mega li.hasChild a.active:hover span.no-image{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/mega/submenu-2.png) no-repeat right 15px}#menusys_mega
+.menusub_mega{padding:0;z-index:999;display:none;margin-top:-1px !important}#menusys_mega .menusub_mega
+.menusub_mega{margin: -35px 0 0 !important}#menusys_mega .submenu-wrap{background:#5ca4d1;border:1px
+solid #468bb7;border-top:none;padding:5px
+0}#menusys_mega
+div.subarrowtop{}#menusys_mega div.subwrapcenter-left{display:block;width:100%}#menusys_mega div.subwrapcenter-right{overflow:hidden}#menusys_mega
+div.subwrapcenter{padding:0;width:100%}#menusys_mega div.menusub_mega div.menusub_mega
+div.subarrowtop{}#menusys_mega div.subwrapcenter-left div.subwrapcenter-left{background:#549bc7;display:block;border:1px
+solid #468bb7;width:auto;padding:5px
+0}#menusys_mega div.subwrapcenter-right div.subwrapcenter-right{display:block}#menusys_mega .megacol ul.mega-ul{margin:0;width:auto;overflow:hidden}#menusys_mega
+.megacol{float:left;width:190px;overflow:hidden}#menusys_mega li.clearfloat
+.megacol.column1{clear:both}#menusys_mega div.subwrapcenter .submenu-wrap{background:none;border:0;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}#menusys_mega .menu-image{border:none;float:left;line-height:44px;padding:8px
+0 0;margin-right:3px}#menusys_mega span.has-image{display:block;background-repeat:no-repeat;background-position:2px 8px;padding-left:30px}#menusys_mega  div.wrap-group{margin:10px
+0}#menusys_mega  div.wrap-group ul.mega-ul{padding:10px
+}#menusys_mega .menusub_mega .mega-group{overflow:hidden;margin:0
+10px;padding:2px
+5px;background:#4685ac;border:1px
+solid #2f6b91;box-shadow:1px 1px 0 #6eb6e3}#menusys_mega .menusub_mega .mega-group:hover{background:#4e91ba;border:1px
+solid #38749a;-moz-box-shadow:inset 0 0 3px #38749a;-webkit-box-shadow:inset 0 0 3px #38749a;box-shadow:inner 0 0 3px #579ec9}#menusys_mega li.hasChild .mega-group span.has-image,
+#menusys_mega li.hasChild .mega-group span.no-image{background:none !important;margin:0;padding:1px
+0 1px 0;display:block}#menusys_mega .mega-group span.has-image{padding:3px
+0 3px 25px}#menusys_mega li.hasChild .mega-group
+a{padding:0;border:none;box-shadow:none;background:none !important }#menusys_mega .menusub_mega .mega-module{clear:both;color:#CAEDFF;line-height:20px}#menusys_mega .menusub_mega .mega-module
+.modulecontent{background:none;border-radius:0;border:none;padding:10px
+0}#menusys_mega .menusub_mega .mega-module
+a.readmore{padding:4px
+7px;color:#fff;cursor:pointer;text-shadow:1px 1px 1px #868686;border:1px
+solid #5693b9;border-bottom:1px solid #3b79a0;display:inline-block;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/button.png) repeat-x 0 0 #76B7E0 }#menusys_mega .menusub_mega .mega-module a.readmore:hover{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/button.png) repeat-x 0 0 #d30c2d;color:#fff;border:1px
+solid #ab112a;box-shadow:none}#menusys_mega .menu-desc{padding:0;line-height:15px;font-size:93%;color:#a4d2ee;display:block}#menusys_mega li.hasChild .mega-group a .menu-title,
+#menusys_mega li.hasChild .mega-group a:hover .menu-title,
+#menusys_mega li.hasChild .mega-group a.active .menu-title{padding-right:0;font-size:110%;text-shadow:none;line-height:20px;color:#fff}#menusys_mega .megacol ul.mega-ul
+li.hasChild{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/mega/arrowchild-ltr.png) no-repeat 95% 10px}#menusys_mega .megacol ul.mega-ul
+li{padding:0;margin:0;float:none;display:block;box-shadow:0px 1px 0 #6ab2de;border-bottom:1px solid #4f8fb7}#menusys_mega .megacol ul.mega-ul li:last-child{box-shadow:none;border-bottom:none}#menusys_mega li .megacol ul.mega-ul li span.no-image,
+#menusys_mega li .megacol ul.mega-ul li a.item:hover span.no-image,
+#menusys_mega li .megacol ul.mega-ul li a.active span.no-image{padding:0
+0 0 12px;background:none}#menusys_mega li.hasChild  ul a,
+#menusys_mega li.hasChild  ul a.active,
+#menusys_mega li.hasChild:hover ul
+a{padding:0;margin:0;display:block;background:none;position:static;text-shadow:none;border:none;box-shadow:none}#menusys_mega li.hover ul.mega-ul a .menu-title,
+#menusys_mega li.hasChild ul.mega-ul li a .menu-title,
+#menusys_mega li.hasChild ul.mega-ul li a.active .menu-title,
+#menusys_mega li.hasChild ul.mega-ul li a.focus .menu-title{line-height:20px;margin:0;padding:5px
+0px;display:block;color:#caedff;font-size:11px;text-shadow:none}#menusys_mega li.hasChild  ul a:hover ,
+#menusys_mega li.hasChild  ul a:active,
+#menusys_mega li.hasChild  ul a:focus,
+#menusys_mega li.hasChild  ul.mega-ul  a.active:hover{text-decoration:none;margin:0;padding-left:0px;display:block;background:#6fb4df}#menusys_mega li.hover  ul.mega-ul a:hover .menu-title,
+#menusys_mega li.hasChild  ul.mega-ul a:hover .menu-title,
+#menusys_mega li.hasChild  ul.mega-ul a:active .menu-title,
+#menusys_mega li.hasChild  ul.mega-ul a:focus .menu-title,
+#menusys_mega li.hasChild  ul.mega-ul a.active:hover .menu-title{color:#fff;text-shadow:0 0 5px #eee}.system-unpublished,tr.system-unpublished{background:#e8edf1;border-top:4px solid #c4d3df;border-bottom:4px solid #c4d3df}span.highlight{background-color:#FFC;font-weight:bold;padding:1px
+4px}.img-fulltext-float-right{float:right;margin-left:10px;margin-bottom:10px}.img-fulltext-float-left{float:left;margin-right:10px;margin-bottom:10px}.img-fulltext-float-none{}.img-intro-float-right{float:right;margin-left:5px;margin-bottom:5px}.img-intro-float-left{float:left;margin-right:5px;margin-bottom:5px}.img-intro-float-none{}.invalid{border-color:#f00}label.invalid{color:#f00}#editor-xtd-buttons{padding:5px}.button2-left,
+.button2-right,
+.button2-left div,
+.button2-right
+div{float:left}.button2-left a,
+.button2-right a,
+.button2-left span,
+.button2-right
+span{display:block;height:22px;float:left;line-height:22px;font-size:11px;color:#666;cursor:pointer}.button2-left span,
+.button2-right
+span{cursor:default;color:#999}.button2-left .page a,
+.button2-right .page a,
+.button2-left .page span,
+.button2-right .page
+span{padding:0
+6px}.page
+span{color:#000;font-weight:bold}.button2-left a:hover,
+.button2-right a:hover{text-decoration:none;color:#0B55C4}.button2-left a,
+.button2-left
+span{padding:0
+24px 0 6px}.button2-right a,
+.button2-right
+span{padding:0
+6px 0 24px}.button2-left{background:url(http://localhost/hogwel.ua/templates/system/images/j_button2_left.png) no-repeat;float:left;margin-left:5px}.button2-right{background:url(http://localhost/hogwel.ua/templates/system/images/j_button2_right.png) 100% 0 no-repeat;float:left;margin-left:5px}.button2-left
+.image{background:url(http://localhost/hogwel.ua/templates/system/images/j_button2_image.png) 100% 0 no-repeat}.button2-left .readmore,
+.button2-left
+.article{background:url(http://localhost/hogwel.ua/templates/system/images/j_button2_readmore.png) 100% 0 no-repeat}.button2-left
+.pagebreak{background:url(http://localhost/hogwel.ua/templates/system/images/j_button2_pagebreak.png) 100% 0 no-repeat}.button2-left
+.blank{background:url(http://localhost/hogwel.ua/templates/system/images/j_button2_blank.png) 100% 0 no-repeat}div.tooltip{float:left;background:#ffc;border:1px
+solid #D4D5AA;padding:5px;max-width:200px;z-index:13000}div.tooltip
+h4{padding:0;margin:0;font-size:95%;font-weight:bold;margin-top: -15px;padding-top:15px;padding-bottom:5px;background:url(http://localhost/hogwel.ua/templates/system/images/selector-arrow.png) no-repeat}div.tooltip
+p{font-size:90%;margin:0}.img_caption
+.left{float:left;margin-right:1em}.img_caption
+.right{float:right;margin-left:1em}.img_caption .left
+p{clear:left;text-align:center}.img_caption .right
+p{clear:right;text-align:center}.img_caption{text-align:center!important}.img_caption.none{margin-left:auto;margin-right:auto}a
+img.calendar{width:16px;height:16px;margin-left:3px;background:url(http://localhost/hogwel.ua/templates/system/images/calendar.png) no-repeat;cursor:pointer;vertical-align:middle}html,body,form{margin:0;padding:0}body{font-size:12px;line-height:18px}body.fs1{font-size:10px}body.fs2{font-size:11px}body.fs3{font-size:12px}body.fs4{font-size:13px}body.fs5{font-size:14px}body.fs6{font-size:15px}small, .small, .smalldark, .article-meta, .modifydate, .img_caption p,.site-slogan{font-size:92%}.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;line-height:0}.clearfix{display:inline-block}/*\*/* html
+.clearfix{height:1%}.clearfix{display:block}/**/ img.caption{padding:3px;display:block;background:#ddd}img.personal{display:block;float:left;margin-right:10px}img.browseProductImage{border:1px
+solid #e9e9e9;padding:3px}img{border:none}a{outline:none;color:#228dc2;text-decoration:none}a:hover,a:active,a:focus{color:#CF1F18;text-decoration:none}h1{font-size:200%}h2{font-size:175%}h3{font-size:150%}h4{font-size:125%}p,pre,blockquote,ul,ol,h1,h2,h3,h4,h5,h6{margin:1em
+0;padding:0}ul{list-style:none}ul
+li{padding:4px
+0px 4px 15px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/arrow.png) no-repeat 3px 7px}ul li:hover{background-position:3px -37px}div.modulecontent
+ul.menu{margin:10px
+-10px;padding:0}ul.menu
+li{padding:5px
+0 5px 15px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/bullet.png) no-repeat 2px -40px}ul.menu li:hover{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/bullet.png) no-repeat 2px 4px}ul.menu li:last-child{border-bottom:none}ul.menu li
+a{color:#595959;display:block;text-shadow:1px 1px #fff}ul.menu li a:hover{color:#228dc2;text-shadow:0 0 5px #a3d8f3}ul.menu
+ul{margin:0px}ul.menu ul
+li{margin-left:0;width:auto;border-bottom:none}ul.list{margin:0}ul.list
+li{padding:5px
+0 5px 0;background:none;border-bottom:1px solid #EAEAEA}ul.list li
+a{color:#444;font-weight:bold}ul.login
+li{border-bottom:none}ol
+li{margin-left:21px}th{font-weight:bold;padding:8px;text-align:left}fieldset,div.bannergroup_text{border:none;padding:10px
+0px }fieldset
+a{font-weight:bold}fieldset.input{padding:0;background:none}legend{font-weight:bold}form{padding:0}input,select,textarea,.inputbox,.button{font-size:100%;border:0px}.inputbox,input.required,textarea{padding:4px
+8px;border:1px
+solid #dadada;color:#A4A4A4}.inputbox:hover,.inputbox:focus{background:#fdfce1}.button,button.validate{margin:3px;padding:4px
+7px;color:#fff;cursor:pointer;text-shadow:0px 1px 1px #868686;border:1px
+solid #79b7dd;border-bottom:1px solid #67a6cd;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/button.png) repeat-x 0 0 #76b7e0 }.button:hover{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/button.png) repeat-x 0 0 #CF1F18;border:1px
+solid #b4120c}.register_form
+label{width:120px;display:inline;float:left}div.reset,div.remind,#login-form{margin:10px
+0}.items-leading,.items-row{width:100%;display:inline-block;margin-bottom:20px}.items-row{margin:0
+-10px}.item-column{margin:0
+10px;padding:0;overflow:hidden}div.cols-2
+.item{width:50%;float:left}div.cols-3
+.item{width:33%;float:left}div.cols-4
+.item{width:25%;float:left}.row-separator{width:100%;height:0px;float:left;font-size:0;line-height:0}p.iteminfo{line-height:1em;margin:0}.article_row
+p.iteminfo{line-height:1em;margin:0
+-10px 5px;padding:10px}.articleinfo{margin:0.5em 0}.filter{float:left;margin:0;padding:0}.display{float:right;margin:10px
+0 0;text-align:right}table.category,table.weblinks,table.newsfeeds{width:100%;clear:both;font-size:100%;margin:20px
+0}table.category{margin:10px
+0}table.category{background:#c6e2ff;margin:10px
+0}table.category td,
+table
+td{padding:4px
+}table.category
+td.last{padding:0px
+4px 0px 0px }table.newsfeeds th, table.weblinks th, table.category
+th{color:#fff;background:#3c3c3c;padding:8px
+5px 8px 5px}table.validate{width:100%}table.validate
+tr.odd{background:#e0e0e0;border-bottom:1px solid #ccc}table.validate
+td{padding:5px}table.validate
+td.bold{font-weight:bold}table.newsfeeds td, table.weblinks td, table.category
+td{padding:5px}.sectiontableheader{padding:4px
+8px;font-weight:bold}.sectiontableheader a,
+.sectiontableheader a:hover,
+.sectiontableheader a:active,
+.sectiontableheader a:focus{color:#fff}tr.sectiontableentry0 td,
+tr.sectiontableentry1 td,
+tr.sectiontableentry2
+td{padding:8px}tr.sectiontableentry2
+td{background:#fff}td.sectiontableentry0,td.sectiontableentry1,td.sectiontableentry2{padding:4px}table.contentpane{border:none;background:none;border:0px
+solid #383838;width:100%}table.contentpaneopen{border:none;border-collapse:collapse;border-spacing:0}table.contenttoc{margin:0
+0 10px 10px;padding:0;width:30%;float:right}table.contenttoc
+td{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/bullet-list.gif) no-repeat 5px 8px;padding:1px
+5px 1px 15px}table.contenttoc
+th{border-bottom:1px solid #CCC;padding:0
+0 3px;text-indent:5px}span.poll{font-weight:bold}table.poll{border-collapse:collapse;padding:0;width:100%}table.pollstableborder{border:none;padding:0;width:100%}table.pollstableborder
+img{vertical-align:baseline}table.pollstableborder
+td{border-collapse:collapse;border-spacing:0;padding:4px
+!important;background:none}table.pollstableborder tr.sectiontableentry1
+td{background:#EEE}table.searchintro{padding:10px
+0;width:100%}table.searchintro
+td{padding:5px!important}.blog_more{margin:0;padding:10px
+0 0}h1.componentheading,.componentheading{margin: -11px -11px 10px;color:#3a3a3a;padding:8px
+15px;border:1px
+solid #dadada;text-shadow:1px 1px 1px #fff;font-weight:normal;font-size:166.7%;position:relative;z-index:9;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/moduletitle.png) #ededed repeat-x 0 0}h2.contentheading,.contentheading{margin:0
+0 10px;font-size:200%;line-height:normal;font-weight:normal}h2.contentheading a,
+.contentheading
+a{color:#fffe92}table.blog
+.contentheading{font-size:100%}td.contentheading{line-height:28px}table.contentpaneopen td, table.contentpane
+td{padding-left:15px}table.contentpaneopen,table.contentpane,table.blog{width:100%}ul.pagination{color:#3B5468;overflow:hidden;clear:both;margin:10px
+auto;padding:10px
+0;text-align:center;list-style:none}ul.pagination
+li{margin:10px
+2px;padding:0;display:inline}ul.pagination li
+span{display:inline-block}ul.pagination li span
+span{padding:3px
+10px 3px 10px;display:inline-block;background:#eee;color:#595959;border:1px
+solid #ddd;border-radius:3px }ul.pagination
+a{padding:0;text-decoration:none}ul.pagination a:hover span span,
+ul.pagination a:active span span,
+ul.pagination a:focus span
+span{background:#76B7E0;color:#fff;border:1px
+solid #5e9fc8}.counter{text-align:center;margin:0.5em auto;width:107px;background:#ddd;color:#333;border:1px
+solid #cacaca;padding:2px
+0px}.pagenavbar{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/icon-pages.gif) no-repeat center left;font-weight:bold;padding-left:14px}.pagenavcounter{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/icon-pages.gif) no-repeat 0 11px;font-weight:bold;padding:8px
+14px 0 14px}.smalldark{text-align:left}.article-tools{display:inline-block;clear:both;width:100%;margin-bottom:5px}.article-meta{width:70%;float:left;color:#3B5468}div.article-tools
+div.iteminfo{width:80%;float:left;color:#919191}div.article-tools
+div.buttonheading{display:inline-block;float:right}.createdby{font-size:90%}.createdate{font-size:90%}.modifydate{width:90%;margin:0
+5px 0px 0}.article-section{padding-left:6px;margin-left:5px}.article-section
+a{color:#3B5468}.article-category
+a{color:#3B5468}div.article-tools div.buttonheading
+img{margin:0
+3px}h1.listproduct{background:url("http://localhost/hogwel.ua/templates/zt_opis25/images/moduletitle.png") repeat-x  0 0;border:1px
+solid #DADADA;color:#3A3A3A;margin: -1px -11px 0;padding:8px
+10px;position:relative;text-shadow:1px 1px 1px #FFF;z-index:9}hr{background:#e8e8e8;border:0px;border-bottom:1px solid #e8e8e8}.zt-field{overflow:hidden;margin-bottom:10px}dl
+dt{float:left;margin-right:20px}td.jshop_categ:hover{background:#c6e2ff}html,body,fieldset{margin:0;padding:0}body{margin:0;padding:0}body#bd{font-family:Arial;color:#595959}body.fs1{font-size:10px;line-height:16px}body.fs2{font-size:11px;line-height:17px}body.fs3{font-size:12px;line-height:18px}body.fs4{font-size:13px;line-height:19px}body.fs5{font-size:14px;line-height:20px}body.fs6{font-size:15px;line-height:21px}#zt-wrapper{margin:0;padding:0;width:100%}#zt-wrapper-inner{width:100%}.zt-wrapper{width:960px;margin:0
+auto}#zt-userwrap1,#zt-userwrap2,#zt-userwrap3,#zt-userwrap4,#zt-userwrap5,#zt-userwrap6,#zt-userwrap7{margin:0;width:100%;clear:both}#zt-userwrap1-inner,#zt-userwrap2-inner,#zt-userwrap3-inner,#zt-userwrap4-inner,#zt-userwrap5-inner,#zt-userwrap6-inner{width:100%;margin:0}#zt-userwrap2{margin-top:15px}#zt-userwrap4-inner{margin:20px
+0 0}#zt-userwrap3-inner,#zt-userwrap2-inner{margin:0px
+-5px;width:auto}#zt-breadcrumbs{width:100%;display:inline-block;display:none}#zt-breadcrumbs-inner{padding:5px
+0;margin:0
+10px;display:block}#zt-colspan1,#zt-colspan2{margin:0}#zt-colspan1-inner,#zt-colspan2-inner{margin:0;display:block}#zt-colspan2-inner{margin-top:10px}div.moduletable,div.moduletable_menu,div.moduletable_text,div.module,div.module_menu,div.module_text,div.moduletable_blank{clear:both;margin:0
+0 10px 0}.ztmodule{margin:0
+5px;display:block;position:relative}h3.moduletitle{margin:0;color:#3a3a3a;padding:8px
+10px;border:1px
+solid #dadada;text-shadow:1px 1px 1px #fff;position:relative;margin-bottom:-3px;z-index:9;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/moduletitle.png) repeat-x 0 0}h3.title{margin:0;color:#3a3a3a;display:block;text-shadow:1px 1px 1px #fff}div.modulecontent{display:block;background:#fff;border:1px
+solid #dadada;padding:0
+10px}div.ztcontent{display:block;padding:0}div.modblank{margin:0}div.moduletable_blank
+h3.moduletitle{margin:0
+0 10px 0}div.moduletable_blank
+div.modulecontent{padding:0;border-radius:0;background:none;border:none}#zt-colortop{display:block}#zt-colortop-inner{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/colortop-opacity.png) no-repeat center top}#zt-header{width:100%;display:inline-block;margin:15px
+0}#zt-header-inner{width:100%;padding:10px
+0;background:#e7e8e8 url(http://localhost/hogwel.ua/templates/zt_opis25/images/header.png) repeat-x 0 0}#zt-logo{float:left;width:240px;margin:10px
+0}#zt-logo .zt-logo{margin:0
+10px;display:block}#zt-logo .zt-logo
+a{display:block;width:213px;height:55px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/logo.png) no-repeat 0 0}#zt-logo .zt-logo a
+span{display:none}#zt-topmenu{float:right;width:50%;margin:10px
+0}#zt-topmenu
+ul.menu{float:right;margin:0}#zt-topmenu ul.menu
+li{display:inline;background:none;padding:0px
+10px;border-bottom:none;border-right:1px solid #d7d7d7}#zt-topmenu ul.menu li:last-child{border-right:none}#zt-topmenu ul.menu li
+a{color:#898989;display:inline-block}#zt-topmenu ul.menu li  a:hover{color:#417BDA}div.search{margin:0
+5px;float:right}div.search .bt-search{padding:0;margin:0;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/bt-search.png) no-repeat 0 0;width:35px;height:28px;float:left;border:none;box-shadow:none;text-indent:-999em;display:block}#mod_search{float:left;padding:6px
+10px;margin:0
+10px}#zt-mainmenu{width:100%;display:inline-block}#zt-mainmenu-inner{margin:10px
+0 0;padding:0
+10px;display:block}#zt-slideshow{margin:15px
+0 0;width:100%}#zt-slideshow-inner{margin:0
+}.zt-user{float:left}.zt-box-inside{padding:0}#zt-mainframe{width:100%;display:table}#zt-mainframe-inner{padding:0
+5px;background:#eaeaea;border:1px
+solid #f5f5f5;margin-top:10px}#zt-component{margin:0;width:100%;display:inline-block}#zt-component-inner{padding:0
+10px;margin:0
+5px;display:block;background:#fff;border:1px
+solid #DADADA}#page,div.item-page{width:100%;display:inline-block;margin:10px
+0}#zt-content
+div.blog{margin:10px
+0}#bid{position:absolute;top:0px;left: -4900px}#zt-container,#zt-container-left,#zt-container-right,#zt-container-full{width:100%;position:relative;padding:10px
+0}#zt-left{width:23%;float:left}#zt-content{width:54%;float:left}#zt-right{width:23%;float:right}#zt-left-inner,#zt-right-inner,#zt-content-inner{margin:0}#zt-container-left #zt-content{width:77%}#zt-container-right #zt-content{width:77%}#zt-container-full #zt-content{width:100%}.zt-layout-lrc #zt-right{float:left}.zt-layout-lrc #zt-content{float:right}.zt-layout-clr #zt-right{float:right}.zt-layout-clr #zt-left{float:right}.zt-layout-clr #zt-content{float:left}div.page-pos #zt-left{width:25%}div.page-pos #zt-content{width:50%}div.page-pos #zt-right{width:25%}div.page-pos #zt-userwrap4 .zt-user{width:25% !important}#zt-bottom{width:100%;display:inline-block;color:#9da0a8;margin-bottom:10px}#zt-bottom-inner{padding:20px
+0;display:block;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/line-hori.png) repeat-x left top}#zt-copyright{float:left;width:50%}#zt-copyright-inner,#zt-botmenu-inner{margin:0
+10px}#zt-botmenu{float:right;width:50%}#zt-botmenu
+ul.menu{margin:0;display:block;text-align:right}#zt-botmenu ul.menu
+li{display:inline;border-bottom:none;background:none;padding:0
+5px;}#zt-botmenu ul.menu li
+a{text-transform:none;width:100%;padding:0
+5px;display:inline;color:#417bda}#zt-botmenu ul.menu li a:hover,
+#zt-bottom a:hover{background:none;color:#CF1F18}.pattern1{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern1.png)}.pattern2{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern2.png)}.pattern3{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern3.png)}.pattern4{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern4.png)}.pattern5{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern5.png)}.pattern6{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern6.png)}.pattern7{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern7.png)}.pattern8{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern8.png)}.pattern9{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern9.png)}.pattern10{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern10.png)}.pattern11{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern11.png)}.pattern12{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern12.png)}.pattern13{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern13.png)}.pattern14{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern14.png)}.pattern15{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern15.png)}.pattern16{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/patterns/pattern16.png)}.zt-typo-col{float:left}.zt-typo-col2{margin:0
+2% 0 0;width:48%}.zt-typo-col3{margin:0
+2% 0 0;width:31%}.zt-typo-col4{margin:0
+2% 0 0;width:23%}p.zt-typo-title{margin:2em
+0 1em;padding:8px
+0;font-size:150%;line-height:110%;font-weight:bold;border-top:dotted 1px #CCC}p.zt-typo-title
+span{padding:2px
+10px;color:#171717;font-family:Georgia;font-style:italic;background:#CCC;text-shadow:0 1px 0 #D9D9D9}p.zt-typo-title span:hover{background:#333;color:#fff;text-shadow:0 1px 1px #333}pre,.code{font-family:"Courier News",monospace;font-size:1em;font-size-adjust:none;font-stretch:normal;font-style:normal;font-variant:normal;font-weight:normal;line-height:1.5em;margin:5px
+0 15px;padding:10px
+15px;color:#333;background:#e2dfdf;border-left:6px solid #848484;border-top:1px solid #848484;border-bottom:1px solid #848484;border-right:1px solid #848484}.zt-green{color:green}.zt-blue{color:blue}.zt-yellow{color:yellow}.zt-red{color:red}p.zt-info{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/info.png) no-repeat 0 2px}p.zt-help{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/help.png) no-repeat 0 2px}p.zt-comment{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/comment.png) no-repeat 0 2px}p.zt-accept{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/accept.png) no-repeat 0 2px}p.zt-add{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/add.png) no-repeat 0 2px}p.zt-tip{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/tip.png) no-repeat 0 2px}p.zt-warning{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/warning.png) no-repeat 0 2px}p.zt-error{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/error.png) no-repeat 0 2px}p.zt-email{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/email.png) no-repeat 0 2px}p.zt-phone{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/phone.png) no-repeat 0 2px}p.zt-mobile{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/mobile.png) no-repeat 0 2px}p.zt-time{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/time.png) no-repeat 0 2px}p.zt-world{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/world.png) no-repeat 0 2px}p.zt-book{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/book.png) no-repeat 0 2px}p.zt-stock{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/stock.png) no-repeat 0 2px}p.zt-cart{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/cart.png) no-repeat 0 2px}p.zt-date{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/date.png) no-repeat 0 2px}p.zt-key{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/key.png) no-repeat 0 2px}p.zt-yes{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/yes.png) no-repeat 0 2px}p.zt-no{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/no.png) no-repeat 0 2px}p.zt-male{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/male.png) no-repeat 0 2px}p.zt-female{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/female.png) no-repeat 0 2px}p.zt-tag-blue{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/tag-blue.png) no-repeat 0 2px}p.zt-tag-green{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/tag-green.png) no-repeat 0 2px}p.zt-tag-orange{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/tag-orange.png) no-repeat 0 2px}p.zt-tag-pink{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/tag-pink.png) no-repeat 0 2px}p.zt-tag-purple{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/tag-purple.png) no-repeat 0 2px}p.zt-tag-red{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/tag-red.png) no-repeat 0 2px}p.zt-tag-yellow{padding:0
+0 0 25px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/tag-yellow.png) no-repeat 0 2px}ol,dl{}ol
+li{padding:2px
+0}dl
+dt{padding:2px
+0}ul.star,ul.plus,ul.arrow,ul.circle,ul.square,ul.checklist{padding:0;list-style:none}ul.star li,
+ul.plus li,
+ul.arrow li,
+ul.circle li,
+ul.square li,
+ul.checklist
+li{padding:2px
+0 2px 25px}ul.star
+li{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/star.png) no-repeat 0 0}ul.plus
+li{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/plus.png) no-repeat 0 2px}ul.arrow
+li{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/arrow.png) no-repeat 0 3px}ul.circle
+li{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/circle.png) no-repeat 0 3px}ul.square
+li{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/square.png) no-repeat 0 3px}ul.checklist
+li{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/checklist.png) no-repeat 0 0}p.zt-box-info{padding:15px
+15px 15px 50px;border-top:solid 1px #C5DCE8;border-bottom:solid 1px #C5DCE8;background:#EBF5FA url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/box-info.png) no-repeat 10px 8px}p.zt-box-warning{padding:15px
+15px 15px 50px;border-top:solid 1px #DED6A3;border-bottom:solid 1px #DED6A3;background:#FFFCE9 url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/box-warning.png) no-repeat 10px 8px}p.zt-box-stickynote{padding:15px
+15px 15px 50px;border-top:solid 1px #E0E0E0;border-bottom:solid 1px #E0E0E0;background:#F6F6F6 url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/box-stickynote.png) no-repeat 10px 8px}p.zt-box-download{padding:15px
+15px 15px 50px;border-top:solid 1px #B8CBA4;border-bottom:solid 1px #B8CBA4;background:#F3FFE7 url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/box-download.png) no-repeat 10px 8px}p.zt-box-faq{padding:15px
+15px 15px 50px;border-top:solid 1px #DED6A3;border-bottom:solid 1px #DED6A3;background:#FFFCE9 url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/box-faq.png) no-repeat 10px 8px}p.zt-box-flag{padding:15px
+15px 15px 50px;border-top:solid 1px #D8C2A9;border-bottom:solid 1px #D8C2A9;background:#FFF4E8 url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/box-flag.png) no-repeat 10px 8px}div.zt-box1{margin:0
+0 15px 0;padding:10px;border:1px
+solid #EAEAEA;background:none}div.zt-box2{margin:0
+0 15px 0;padding:10px;border:1px
+solid #EAEAEA;background:#F0F0F0}div.zt-box3{margin:0
+0 15px 0;padding:10px;border:1px
+solid #CCC;background:#DDD}div.zt-box4{margin:0
+0 15px 0;padding:10px;border:1px
+solid #A1CEE5;background:none}div.zt-box5{margin:0
+0 15px 0;padding:10px;border:1px
+solid #9DC9DF;background:#E6F7FF}div.zt-box6{margin:0
+0 15px 0;padding:10px;border:1px
+solid #5F95B0;background:#A9CEE0}div.zt-box7{margin:0
+0 15px 0;padding:10px;border:1px
+solid #FFE0B0;background:none}div.zt-box8{margin:0
+0 15px 0;padding:10px;border:1px
+solid #E8CA9C;background:#FFEFD7}div.zt-box9{margin:0
+0 15px 0;padding:10px;border:1px
+solid #D69839;background:#F2CD95}.zt-bubble{margin:0
+0 15px 0;width:100%;position:relative}.zt-bubble-top{padding:10px;display:block;overflow:hidden;border:3px
+solid #CFCECE;background:#FFF}.zt-bubble-bottom{height:25px;position:relative;margin: -3px 0 0 0;padding:5px
+0 0 60px}.zt-bubble-arrow{width:30px;height:30px;display:block;top:0;left:30px;position:absolute;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/bubble-arrow.png) no-repeat 0 0}.bubble1 div.zt-bubble-top{border:3px
+solid #CFCECE;background:#FFF}.bubble2 div.zt-bubble-top{border:3px
+solid #CCC;background:#CCC}.bubble3 div.zt-bubble-top{border:3px
+solid #A1CEE5;background:#FFF}.bubble4 div.zt-bubble-top{border:3px
+solid #5F95B0;background:#5F95B0;color:#FFF}.bubble5 div.zt-bubble-top{border:3px
+solid #FFE0B0;background:#FFF}.bubble6 div.zt-bubble-top{border:3px
+solid #D69839;background:#D69839;color:#FFF}.bubble7 div.zt-bubble-top{border:3px
+solid #484848;background:#FFF}.bubble8 div.zt-bubble-top{border:3px
+solid #0F0F0F;background:#0F0F0F;color:#FFF}.bubble1 div.zt-bubble-arrow{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/bubble-arrow.png) no-repeat 0 0}.bubble2 div.zt-bubble-arrow{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/bubble-arrow.png) no-repeat 0 -30px}.bubble3 div.zt-bubble-arrow{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/bubble-arrow.png) no-repeat -30px 0}.bubble4 div.zt-bubble-arrow{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/bubble-arrow.png) no-repeat -30px -30px}.bubble5 div.zt-bubble-arrow{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/bubble-arrow.png) no-repeat -60px 0}.bubble6 div.zt-bubble-arrow{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/bubble-arrow.png) no-repeat -60px -30px}.bubble7 div.zt-bubble-arrow{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/bubble-arrow.png) no-repeat -90px 0}.bubble8 div.zt-bubble-arrow{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/bubble-arrow.png) no-repeat -90px -30px}.highlight{padding:2px
+5px;color:#3D3D3D;background:#ECECEC}.highlight1{padding:2px
+5px;color:#FFF;background:#5F95B0}.highlight2{padding:2px
+5px;color:#FFF;background:#D69839}.highlight3{padding:2px
+5px;color:#FFF;background:#0F0F0F}p.zt-blocknumber{padding:8px
+0 8px 60px;position:relative}span.bignumber{width:54px;height:54px;display:block;font-size:200%;line-height:54px;text-align:center;top:0;left:0;position:absolute;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/blocknumber.png) no-repeat 0 0}.blocknumber1
+span.bignumber{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/blocknumber.png) no-repeat 0 0}.blocknumber2
+span.bignumber{color:#FFF;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/blocknumber.png) no-repeat 0 -54px}.blocknumber3
+span.bignumber{color:#FFF;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/blocknumber.png) no-repeat 0 -108px}.blocknumber4
+span.bignumber{color:#FFF;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/blocknumber.png) no-repeat 0 -162px}blockquote{padding:5px
+10px 5px 35px;display:block;font-family:Georgia,Serif;font-style:italic;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/blockquote_open.png) no-repeat 3px 0}blockquote
+p{margin:0
+0 15px 0;padding:0
+15px 0 0}blockquote
+p.close{padding:0
+30px 10px 0;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/typo/blockquote_close.png) no-repeat 100% 100%}blockquote.alignleft{float:left;width:30%}blockquote.alignright{float:right;width:30%}.dropcap{overflow:hidden}.dropcap:first-letter {color:#414141;display:block;float:left;font:50px/40px Georgia, Times, serif;padding:4px
+8px 0 0}.zt-legend{margin:20px
+0;padding:10px
+10px;position:relative;background:#FFF;border:1px
+solid #CCC}.legend-title{margin:0;padding:2px
+5px;display:block;left:10px;top: -10px;color:#fff;position:absolute;background:#818181}.zt-legend.legend1{border:1px
+solid #CCC}.zt-legend.legend2{border:1px
+solid #5F95B0}.zt-legend.legend3{border:1px
+solid #D69839}.zt-legend.legend4{border:1px
+solid #0F0F0F}.zt-legend.zt-dotted{border-style:dotted}.zt-legend.zt-rounded{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}.legend1 .legend-title{color:#0F0F0F;background:#CCC}.legend2 .legend-title{color:#fff;background:#5F95B0}.legend3 .legend-title{color:#fff;background:#D69839}.legend4 .legend-title{color:#fff;background:#0F0F0F}table{border-collapse:collapse;border-spacing:0}th{text-align:left}table.plainrows{background-color:#F2F2F2;color:#404040;border-collapse:collapse}table.plainrows
+caption{padding:6px
+0;font-size:1.2em;font-weight:bold;text-transform:uppercase;text-align:center}table.plainrows
+thead{border-bottom:solid 1px #284D73}table.plainrows thead
+th{padding:5px
+10px;background-color:#366999;color:#FFF;font-size:1.1em;text-transform:capitalize}table.plainrows tfoot th, table.plainrows tfoot
+td{padding:3px
+10px;background-color:#D9D9D9;color:#000;font-size:1.1em;text-transform:capitalize}table.plainrows tfoot
+td{text-align:right}table.plainrows tbody th, table.plainrows tbody
+td{border-bottom:solid 1px #D9D9D9;padding:4px
+10px}table.plainrows tbody
+th{white-space:nowrap}table.plainrows
+tr.odd{}table.plainrows tbody tr:hover{background:#E5E5E5}table.colorstripes{border:1px
+solid #162C40;color:#FFF;background:#284D73;border-collapse:collapse}table.colorstripes
+caption{padding:6px
+0;font-size:1.2em;font-weight:bold;text-transform:uppercase;text-align:center}table.colorstripes td, table.colorstripes
+th{border:1px
+dashed #366999;padding:5px
+10px}table.colorstripes thead
+th{border:1px
+solid #284D73;background:#162C40;color:#FFF;font-size:1.1em}table.colorstripes tbody th, table.colorstripes tbody
+td{text-align:left;vertical-align:top}table.colorstripes tbody
+tr.odd{background:#224161}table.colorstripes tbody tr:hover{background:#1F3D59}table.colorstripes tbody tr:hover th, table.colorstripes tbody tr.odd:hover
+th{background:#1F3D59}table.colorstripes tfoot th, table.colorstripes tfoot
+td{border:none;padding:4px
+10px;background:#162C40;color:#FFF;font-size:1.1em}table.colorstripes tfoot
+td{text-align:right}table.greystripes{border:1px
+solid #D9D9D9;color:#404040;background:#FFF;border-collapse:collapse}table.greystripes
+caption{padding:6px
+0;font-size:1.2em;font-weight:bold;text-transform:uppercase;text-align:center}table.greystripes td, table.greystripes
+th{border:1px
+dashed #E5E5E5;padding:5px
+10px}table.greystripes thead
+th{border:1px
+solid #595959;border-bottom:2px solid #000;background:#404040;color:#FFF;font-size:1.1em}table.greystripes tbody th, table.greystripes tbody
+td{text-align:left;vertical-align:top}table.greystripes tbody
+tr.odd{background:#F2F2F2}table.greystripes tbody tr:hover{background:#E5E5E5}table.greystripes tbody tr:hover th, table.greystripes tbody tr.odd:hover
+th{background:#E5E5E5}table.greystripes tfoot th, table.greystripes tfoot
+td{border:none;padding:4px
+10px;background-color:#D9D9D9;color:#000;font-size:1.1em}table.greystripes tfoot
+td{text-align:right}#menusys_mega li .menu-title{font-family:'Metrophobic',arial,serif}h3.moduletitle,h3.title,h1.listproduct,h1.jshop-titleheading,.jshop-pagetitle{font-size:166.7%;font-weight:normal;font-family:'Metrophobic',arial,serif}h2.contentheading,h2.componentheading{font-family:'Metrophobic',arial,serif}h1.componentheading,.componentheading{font-family:'Metrophobic',arial,serif}h3.jvcarousel_title{font-family:'Metrophobic',arial,serif}.subCategory:hover
+h2{font-family:'Metrophobic',arial,serif}div.bt-buy{font-family:'Metrophobic',arial,serif}.jvcarousel-item a.readmore,
+.jvcarousel-item
+a.thebuy{font-family:'Metrophobic',arial,serif}.itemListSubCategories
+h3{font-family:'Metrophobic',arial,serif}.itemHeader .itemTitle, .genericItemTitle, .catItemHeader
+.catItemTitle{font-family:'Metrophobic',arial,serif}.itemAuthorBlock .itemAuthorDetails
+h3.itemAuthorName{font-family:'Metrophobic',arial,serif}#loginComp{display:inline-block;margin-bottom:25px}#loginComp
+#loginBtn{display:none}.selectBtn{display:inline-block;*display:inline;z-index:10000;user-select:none;-moz-user-select:none;-webkit-user-select:auto;-ms-user-select:none}.selectBtn:hover,.selectBtn:active,.selectBtn:focus{background:none}#logoutForm,#loginForm{display:inline-block;margin:0}#strongFields{display:block;overflow:hidden;height:7px;margin:3px
+0 2px;border-radius:3px;-webkit-border-radius:3px;background-color:#309dff;background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjxsaW5lYXJHcmFkaWVudCBpZD0nZycgeDI9JzEwMCUnIHkyPScwJz48c3RvcCBzdG9wLWNvbG9yPScjMzA5ZGZmJy8+PHN0b3Agb2Zmc2V0PScxMDAlJyBzdG9wLWNvbG9yPScjMGE2NWFmJy8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB3aWR0aD0nMTAwJScgaGVpZ2h0PScxMDAlJyBmaWxsPSd1cmwoI2cpJy8+PC9zdmc+);background-image: -moz-linear-gradient(left, #309dff, #0a65af);background-image: -o-linear-gradient(left, #309dff, #0a65af);background-image: -ms-linear-gradient(left, #309dff, #0a65af);background-image: -webkit-gradient(linear, left top, right top, from(#309dff), to(#0a65af));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#309dff, endColorstr=#0a65af, GradientType=1)}#strongFields
+.strongField.empty{background-color:#f4f4f4;-webkit-transition:background-color 1.2s ease-out;-moz-transition:background-color 1.2s ease-out;-ms-transition:background-color 1.2s ease-out;-o-transition:background-color 1.2s ease-out;transition:background-color 1.2s ease-out}.strongField.empty,.strongField{display:block;background-color:transparent;width:20%;height:7px;float:left;box-shadow:1px 1px 2px rgba(0, 0, 0, 0.4) inset,
+-2px 0 0 #282828;-webkit-box-shadow:1px 1px 2px rgba(0, 0, 0, 0.4) inset,
+-2px 0 0 #282828}.loginWndInside{position:relative;display:inline-block;padding:18px
+20px 8px;text-align:center;border:1px
+#202020 solid;background-color:#282828;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;box-shadow:0px 0px 2px rgba(0,0,0,0.4);-moz-box-shadow:0px 0px 2px rgba(0,0,0,0.4);-webkit-box-shadow:0px 0px 2px rgba(0,0,0,0.4)}.loginH1{font-family:'Viga',Helvetica;font-size:14px;color:#7e7e7e;font-weight:normal;text-align:left;line-height:normal;padding-bottom:6px;margin:0
+0 9px 0;position:relative;border-bottom:1px #474747 solid;box-shadow:0px 1px 0px #3C3C3C;-moz-box-shadow:0px 1px 0px #3C3C3C;-webkit-box-shadow:0px 1px 0px #3C3C3C}.socialBody{background-color:#474747}.captchaCnt{display:block;*width:215px;border:none;clear:both;padding:4px
+2px 2px 4px;overflow:hidden;position:relative;border-radius:3px;-webkit-border-radius:3px;margin:0
+0 6px;background:#fff;box-shadow:1px 1px 0 rgba(255, 255, 255, 0.8),
+1px 1px 3px rgba(0, 0, 0, 0.3) inset;-webkit-box-shadow:1px 1px 0 rgba(255, 255, 255, 0.8),
+1px 1px 3px rgba(0, 0, 0, 0.3) inset}.dj_ie7 .captchaCnt,
+.dj_ie8
+.captchaCnt{border:1px
+#474747 solid\9}#regRequired .red,
+.loginMsg
+.red{display:none}#recaptchaImg{display:block;width:100%;min-height:57px;max-width:300px;margin:0
+auto;opacity:0;transition:opacity .33s ease-in-out;-o-transition:opacity .33s ease-in-out;-ms-transition:opacity .33s ease-in-out;-moz-transition:opacity .33s ease-in-out;-webkit-transition:opacity .33s ease-in-out}#recaptchaImg.fadeIn{min-height:0;opacity:1}a#loginBtn.selectBtn:hover{background-color:transparent}.selectBtn{margin:1px;white-space:nowrap}.selectBtn:hover,.loginBtn:hover{*text-decoration:none}.btnIco{display:block;float:left;background:transparent no-repeat 1px center;width:20px;border-right:1px #0d5f95 solid;box-shadow:1px 0 0 rgba(255, 255, 255, 0.5);-webkit-box-shadow:1px 0 0 rgba(255,255,255,0.5)}.socialIco{cursor:pointer;width:36px;height:36px;border-radius:18px;-webkit-border-radius:18px;background:#474747;display:inline-block;*display:block;*float:left;margin:0
+9px;text-align:left}.socialIco:first-child{margin-left:0}.socialIco:last-child{margin-right:0}.socialImg{margin:4px;width:28px;height:28px;border-radius:14px;-webkit-border-radius:14px;box-shadow:1px 1px 1px rgba(0, 0, 0, 0.3), inset 1px 1px 1px #fff;-webkit-box-shadow:0 1px 1px rgba(0, 0, 0, 0.3), inset 0 1px 1px #fff}.loginBtn,.socialIco,.socialImg{-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-ms-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out}.socialIco:hover
+.socialImg{border-radius:7px;-webkit-border-radius:7px}.socialIco:hover{background-color:#0d70cb}.facebookImg{background:transparent url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/fb.png)}.googleImg{background:transparent url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/google.png)}.twitterImg{background:transparent url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/twitter.png)}.windowsImg{background:transparent url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/wl.png)}.loginBrd{clear:both;*text-align:center;position:relative;margin:13px
+0;height:0;padding:0;border:0}.loginBrd{border-bottom:1px #474747 solid;box-shadow:0px 1px 0px #3C3C3C;-moz-box-shadow:0px 1px 0px #3C3C3C;-webkit-box-shadow:0px 1px 0px #3C3C3C}.loginOr{display:none;position:absolute;width:20px;height:15px;left:50%;text-align:center;margin: -7px 0 0 -13px;border:3px
+solid #282828;border-top:0;background:#282828}#loginWnd
+.loginOr{display:block}#loginWnd *::selection{background-color:#0d70cb;color:#f4f4f4}#loginWnd *::-moz-selection{background-color:#0d70cb;color:#f4f4f4}.arrowL,.arrowR{display:block;position:absolute;top:7px;width:0;height:0;border:5px
+transparent solid;border-right-color:#991200;border-left-width:0}.arrowL{left: -11px}.arrowR{right: -6px;border-left-color:#991200;border-width:5px 0 5px 5px}.Inf
+.arrowL{border-right-color:#BCBCBC}.Inf
+.arrowR{border-left-color:#BCBCBC}.loginMsg{display:none;z-index:10000;position:absolute;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;box-shadow:1px 1px 2px rgba(0,0,0,0.4),
+inset 1px 1px 0px rgba(255,255,255,0.3);-moz-box-shadow:1px 1px 2px rgba(0,0,0,0.4),
+inset 1px 1px 0px rgba(255,255,255,0.3);-webkit-box-shadow:1px 1px 2px rgba(0,0,0,0.4),
+inset 1px 1px 0px rgba(255,255,255,0.3)}.loginMsg.Inf{border:1px
+solid #BCBCBC;background-color:#f4f4f4;background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjxsaW5lYXJHcmFkaWVudCBpZD0nZycgeDI9JzAnIHkyPScxMDAlJz48c3RvcCBzdG9wLWNvbG9yPScjZjRmNGY0Jy8+PHN0b3Agb2Zmc2V0PScxMDAlJyBzdG9wLWNvbG9yPScjZTRlNGU0Jy8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB3aWR0aD0nMTAwJScgaGVpZ2h0PScxMDAlJyBmaWxsPSd1cmwoI2cpJy8+PC9zdmc+);background-image: -moz-linear-gradient(top, #f4f4f4, #e4e4e4);background-image: -o-linear-gradient(top, #f4f4f4, #e4e4e4);background-image: -ms-linear-gradient(top, #f4f4f4, #e4e4e4);background-image: -webkit-gradient(linear, left top, left bottom,from(#f4f4f4),to(#e4e4e4));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#f4f4f4,endColorstr=#e4e4e4)}.loginMsg.Err{border:1px
+solid #991200;background-color:#e0401d;background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjxsaW5lYXJHcmFkaWVudCBpZD0nZycgeDI9JzAnIHkyPScxMDAlJz48c3RvcCBzdG9wLWNvbG9yPScjZTA0MDFkJy8+PHN0b3Agb2Zmc2V0PScxMDAlJyBzdG9wLWNvbG9yPScjYjczMDE2Jy8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB3aWR0aD0nMTAwJScgaGVpZ2h0PScxMDAlJyBmaWxsPSd1cmwoI2cpJy8+PC9zdmc+);background-image: -moz-linear-gradient(top, #e0401d, #b73016);background-image: -o-linear-gradient(top, #e0401d, #b73016);background-image: -ms-linear-gradient(top, #e0401d, #b73016);background-image: -webkit-gradient(linear, left top, left bottom,from(#e0401d),to(#b73016));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#e0401d,endColorstr=#b73016)}span.loginInf,span.loginErr{position:relative;text-align:left;max-width:360px;cursor:default;margin-left:5px;padding:4px
+8px 4px 16px;text-decoration:none;color:#fff;text-shadow:1px 1px 0px rgba(0,0,0,0.7)}span.loginInf{color:#474747;text-shadow:1px 1px 0 rgba(255,255,255,0.5)}div.iconErr,div.iconInf{width:15px;position:absolute;left:0;background:url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/info.png) no-repeat scroll left center transparent}div.iconErr{background:url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/error.png) no-repeat left center}.loginInf,
+.loginErr,
+.loginBtn span,.loginBtn{display:inline-block;font-family:'Viga',Helvetica;font-size:12px;color:#fff;font-weight:normal;text-shadow:1px 1px 0 rgba(0,0,0,0.7);line-height:normal}.facebookIco{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/29220b1d2eab05fe14f7cbb0736185a3.png)}.googleIco{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/c0b328311281547e6893594e8d44b934.png)}.twitterIco{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/82d5dc961e80b4ddb1a3e0e7a70afadc.png)}.windowsIco{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/7fb608a04581d85fa2b4b1e9bd942aea.png)}.loginBtn::-moz-focus-inner{border:0;padding:0}.loginBtn{display:inline-block;cursor:pointer;text-align:center;margin:0;padding:4px;border:1px
+solid #0d5f95;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}.loginBtn,
+.loginBtn:hover:active,
+.selectBtn:hover
+.leftBtn{background-color:#309dff;background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjxsaW5lYXJHcmFkaWVudCBpZD0nZycgeDI9JzAnIHkyPScxMDAlJz48c3RvcCBzdG9wLWNvbG9yPScjMzA5ZGZmJy8+PHN0b3Agb2Zmc2V0PScxMDAlJyBzdG9wLWNvbG9yPScjMGQ3MGNiJy8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB3aWR0aD0nMTAwJScgaGVpZ2h0PScxMDAlJyBmaWxsPSd1cmwoI2cpJy8+PC9zdmc+);background-image: -moz-linear-gradient(top, #309dff, #0d70cb);background-image: -o-linear-gradient(top, #309dff, #0d70cb);background-image: -ms-linear-gradient(top, #309dff, #0d70cb);background-image: -webkit-gradient(linear, left top, left bottom, from(#309dff), to(#0d70cb));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#309dff, endColorstr=#0d70cb);-o-background-size:100% 100%}.loginBtn,
+.selectBtn:active
+.rightBtn{box-shadow:1px 1px 2px rgba(0,0,0,0.4),
+inset 1px 1px 0px rgba(255,255,255,0.5);-moz-box-shadow:1px 1px 2px rgba(0,0,0,0.4),
+inset 1px 1px 0px rgba(255,255,255,0.5);-webkit-box-shadow:1px 1px 2px rgba(0,0,0,0.4),
+inset 1px 1px 0px rgba(255,255,255,0.5)}.leftBtn{padding-left:6px;padding-right:6px;border-radius:3px 1px 1px 3px;-moz-border-radius:3px 1px 1px 3px;-webkit-border-radius:3px 1px 1px 3px}.rightBtn{padding-left:2px;padding-right:2px;border-radius:0px 3px 3px 0px;-moz-border-radius:0px 3px 3px 0px;-webkit-border-radius:0px 3px 3px 0px;border-left-width:0;letter-spacing: -2}.loginBtn:hover,
+.selectBtn:hover
+.rightBtn{background-color:#2684d6;background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjxsaW5lYXJHcmFkaWVudCBpZD0nZycgeDI9JzAnIHkyPScxMDAlJz48c3RvcCBzdG9wLWNvbG9yPScjMjY4NGQ2Jy8+PHN0b3Agb2Zmc2V0PScxMDAlJyBzdG9wLWNvbG9yPScjMGE2NWFmJy8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB3aWR0aD0nMTAwJScgaGVpZ2h0PScxMDAlJyBmaWxsPSd1cmwoI2cpJy8+PC9zdmc+);background-image: -moz-linear-gradient(top, #2684d6, #0a65af);background-image: -o-linear-gradient(top, #2684d6, #0a65af);background-image: -ms-linear-gradient(top, #2684d6, #0a65af);background-image: -webkit-gradient(linear, left top, left bottom, from(#2684d6), to(#0a65af));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#2684d6, endColorstr=#0a65af)}.loginBtn:active:hover,
+.selectBtn.active .leftBtn,
+.selectBtn:active
+.leftBtn{box-shadow:inset 1px 1px 3px rgba(0,0,0,0.5);-moz-box-shadow:inset 1px 1px 3px rgba(0,0,0,0.5);-webkit-box-shadow:inset 1px 1px 3px rgba(0,0,0,0.5)}.selectBtn.active{position:relative}#loginWnd{visibility:hidden;top:0;position:absolute;z-index:10000;padding:3px;border:1px
+#131313 solid;border-radius:7px;-moz-border-radius:7px;-webkit-border-radius:7px;background-color:#474747;box-shadow:1px 1px 5px rgba(0, 0, 0, 0.4);-moz-box-shadow:1px 1px 5px rgba(0, 0, 0, 0.4);-webkit-box-shadow:1px 1px 5px rgba(0, 0, 0, 0.4)}.usermenu
+.loginWndInside{padding:5px}#upArrow{position:absolute;top: -15px}.upArrowOutside,.upArrowInside{position:absolute;top: -1px;display:block;width:2px;height:0;border:10px
+transparent solid;border-bottom-color:#202020;border-top-width:0}.upArrowInside{width:0;top:0px;left:1px;border-bottom-color:#474747}.closeBtn{position:absolute;right:0;top:0;line-height:0;margin:0;padding:3px
+5px;border:1px
+solid #0d5f95;border-radius:0 3px;-moz-border-radius:0 3px;-webkit-border-radius:0 3px 0 3px;box-shadow:inset 1px -1px 3px rgba(0,0,0,0.3),
+0 1px 2px rgba(0, 0, 0, 0.4);-moz-box-shadow:inset 1px -1px 3px rgba(0,0,0,0.3),
+0 1px 2px rgba(0, 0, 0, 0.4);-webkit-box-shadow:inset 1px -1px 3px rgba(0,0,0,0.3),
+0 1px 2px rgba(0,0,0,0.4)}.closeBtn:hover{box-shadow:inset 0 0 3px rgba(0,0,0,0.3),
+0 1px 2px rgba(0, 0, 0, 0.4);-moz-box-shadow:inset 0 0 3px rgba(0,0,0,0.3),
+0 1px 2px rgba(0, 0, 0, 0.4);-webkit-box-shadow:inset 0 0 3px rgba(0,0,0,0.3),
+0 1px 2px rgba(0,0,0,0.4)}div.correct{background:transparent url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/ok.png) no-repeat 0 center;width:20px;display:inline-block}.loginOr,
+.smallTxt,
+.checkLbl,
+.forgetLnk,
+.loginLst a:link,
+.loginLst a:visited,input[type=text].loginTxt,input[type=password].loginTxt{font-family:'Viga',Helvetica;font-size:12px;color:#7e7e7e;font-weight:normal;text-decoration:none;line-height:normal}.checkLbl{float:left}.dj_ie8 input[type=password].loginTxt,
+.dj_ie8 input[type=text].loginTxt,
+.dj_ie8 input[type=password].loginTxt:focus,
+.dj_ie8 input[type=text].loginTxt:focus{border:1px
+#474747 solid}#passReg{margin-bottom:0}#passReg:hover ~ #strongFields .strongField.empty,
+#passReg:focus ~ #strongFields
+.strongField.empty{background-color:#f4f4f4}#passStrongness{*display:none;float:right}.strongField{box-shadow:inset 0 0 0 1px rgba(0, 0, 0, 0.3),
+inset 2px 2px 1px rgba(255,255,255,0.5);-webkit-box-shadow:inset 0 0 0 1px rgba(0, 0, 0, 0.3),
+inset 2px 2px 0 rgba(255,255,255,0.5)}input[type=password].loginTxt,input[type=text].loginTxt{display:block;width:100%;*width:auto;height:auto;margin:0
+0 14px;padding:5px;padding-left:25px;background:#f4f4f4 no-repeat;border:none;*border:1px
+#474747 solid;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;box-shadow:1px 1px 0 rgba(255,255,255,0.8),
+inset 1px 1px 3px rgba(0,0,0,0.3);-moz-box-shadow:1px 1px 0 rgba(255,255,255,0.8),
+inset 1px 1px 3px rgba(0,0,0,0.3);-webkit-box-shadow:1px 1px 0 rgba(255,255,255,0.8),
+inset 1px 1px 3px rgba(0,0,0,0.3);box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;background-position:8px center, 8px -150%, 7px -150%;background-position:8px center\9;-webkit-transition:background-position 0s ease-out;-moz-transition:background-position 0s ease-out;-ms-transition:background-position 0s ease-out;-o-transition:background-position 0s ease-out;transition:background-position 0s ease-out}#strongFields .strongField,
+#strongFields .strongField.empty,input[type=password].loginTxt,input[type=text].loginTxt{-webkit-transition:background-color 0.3s ease-out;-moz-transition:background-color 0.3s ease-out;-ms-transition:background-color 0.3s ease-out;-o-transition:background-color 0.3s ease-out;transition:background-color 0.3s ease-out}input[type=password].loginTxt:focus,input[type=text].loginTxt:focus{background-position:8px 250%, 8px center, 7px -150%;-webkit-transition:background 0.3s;-moz-transition:background 0.3s;-ms-transition:background 0.3s;-o-transition:background 0.3s;transition:background 0.3s}input[type=password].loginTxt.correct,input[type=text].loginTxt.correct{background-position:8px -150%, 8px -150%, 7px center;background-position:7px center\9;background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/ok.png)\9}input[type=password].loginTxt.correct:focus,input[type=text].loginTxt.correct:focus{background-position:8px center, 8px -150%, 7px 250%}input[type=password].regTxt,input[type=text].regTxt{margin-bottom:12px;width:190px}#regLyr{text-align:left}#regLyr
+.columnL{float:left;margin:0
+20px 2px 0;*margin:0
+0 2px 0;clear:both}#regLyr
+.columnR{float:left;*clear:both;margin:0
+0 2px 0}button#submitReg.submitBtn{margin:0
+0 7px;*clear:both}#regLyr
+.submitBtn{width:190px;float:right;*float:none;*display:block;clear:none}.dj_ie8 #regLyr
+.submitBtn{clear:both}#regLyr span.submitBtn:nth-child(2n+1){float:left;clear:both}#logLyr
+br.socialBR{display:none}input[type=password].loginTxt:hover,input[type=text].loginTxt:hover,input[type=password].loginTxt:focus,input[type=text].loginTxt:focus{background-color:#f4f4f4}input[name=email2].loginTxt,input[name=email].loginTxt{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/email.png),url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/email.png),url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/ok.png);background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/email.png)\9}input[name=name].loginTxt,input[name=username].loginTxt{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/user.png),url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/user.png),url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/ok.png);background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/user.png)\9}input[name=passwd2].loginTxt,input[name=passwd].loginTxt{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/pass.png),url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/pass.png),url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/ok.png);background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/pass.png)\9}input[name=recaptchaResponse].loginTxt{margin:0;background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/pen.png),url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/pen.png),url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/ok.png);background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/pen.png)\9}.submitBtn{display:block;*display:inline;width:100%;*width:auto;margin-bottom:10px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box}.checkLbl,.forgetLnk:link,.forgetLnk:visited{cursor:pointer;font-size:11px;font-weight:normal;vertical-align:4px;margin:0}.smallTxt{display:inline-block;margin-bottom:1px;font-size:11px;font-weight:normal}.forgetDiv{float:right;*float:none;display:inline-block}a.forgetLnk:link{padding:0;margin-left:10px;background:none}a.forgetLnk:hover{background-color:transparent;text-decoration:underline}.checkBox{display:block;margin:1px
+0 0 0;width:10px;height:10px;border:1px
+#131313 solid;float:left;background:transparent none no-repeat 2px 2px;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;box-shadow:1px 1px 2px rgba(0, 0, 0, 0.25);-moz-box-shadow:1px 1px 2px rgba(0, 0, 0, 0.25);-webkit-box-shadow:1px 1px 2px rgba(0, 0, 0, 0.25)}.checkLbl:hover
+.checkBox{background-color:#f4f4f4;box-shadow:1px 1px 2px rgba(0, 0, 0, 0.25) inset;-moz-box-shadow:1px 1px 2px rgba(0, 0, 0, 0.25) inset;-webkit-box-shadow:1px 1px 2px rgba(0, 0, 0, 0.25) inset}.checkBox.active{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/check.png)}.loginLst{padding:0;margin:0;list-style:circle inside}.loginLst a:link,
+.loginLst a:visited{display:block;padding:0
+10px 0 20px;line-height:22px;text-align:left;border-bottom:1px #474747 solid;box-shadow:0px 1px 0px #3C3C3C;-moz-box-shadow:0px 1px 0px #3C3C3C;-webkit-box-shadow:0px 1px 0px #3C3C3C;-webkit-transition:padding 0.25s ease-out;-moz-transition:padding 0.25s ease-out;-ms-transition:padding 0.25s ease-out;-o-transition:padding 0.25s ease-out;transition:padding 0.25s ease-out}.forgetLnk:link,
+.forgetLnk:visited,
+.forgetLnk:hover,
+.loginLst a.active,
+.loginLst a:hover{padding:0
+5px 0 25px;color:#0d70cb;text-decoration:none}#passStrongness,
+#regRequired,
+#regLyr
+.req{color:#0d70cb}#regRequired{display:block}.loginLst
+a{background-color:transparent;background-repeat:no-repeat;background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/6176a6e4b4c556d73bc4274e75ada337.png), url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/d346d2ba6b99730a9407febe2b1666a1.png);background-position:0 center, -100% 0;background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/6176a6e4b4c556d73bc4274e75ada337.png)\9;background-position:0 center\9}.loginLst a.active,
+.loginLst a:hover{background-position: -100% 0, 0 center;background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/d346d2ba6b99730a9407febe2b1666a1.png)\9}.loginLst
+.settings{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/140e98effb8ce859e715fc31883844ac.png), url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/29a038b8a572312af42caa98e33b0594.png);background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/140e98effb8ce859e715fc31883844ac.png)\9}.loginLst .settings:hover{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/29a038b8a572312af42caa98e33b0594.png)\9}.loginLst
+.cart{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/9a58966327cb7bb89e8b004c3a77e92d.png), url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/6ff98e6c61054844fa3fba3f9e339c2a.png);background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/9a58966327cb7bb89e8b004c3a77e92d.png)\9}.loginLst .cart:hover{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/6ff98e6c61054844fa3fba3f9e339c2a.png)\9}.loginLst
+.logout{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/0291f754c2aa48b4ba9f513cdd362db4.png), url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/b352d58dbef5965eeceb81ff371aa99c.png);background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/0291f754c2aa48b4ba9f513cdd362db4.png)\9}.loginLst .logout:hover{background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/b352d58dbef5965eeceb81ff371aa99c.png)\9}.loginLst a.active,
+.loginLst a.active:hover{background-image:none}.loginLst a:last-child{border:0;box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none}.blackBg{display:none;position:absolute;background:#000 url(/hogwel.ua/modules/mod_improved_ajax_login/themes/elegant/images/patterns/ptrn1.png);top:0;left:0;width:100%;height:100%;z-index:9999;opacity:1;-webkit-transition:opacity 333ms ease-out;-moz-transition:opacity 333ms ease-out;-ms-transition:opacity 333ms ease-out;-o-transition:opacity 333ms ease-out;transition:opacity 333ms ease-out}.waitAnim{display:block;width:14px;height:14px;margin:4px
+2px;position:absolute;background:transparent url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/e22127186c5a29779f350d6018dcecfd.png) repeat-y 0 0}.forgetDiv
+.waitAnim{margin:0
+0 0 -1px}.loginBtn
+span{display:inline-block;cursor:default}.loginBtn
+.waitAnim{display:none;background-image:url(/hogwel.ua/modules/mod_improved_ajax_login/cache/90-langru-RU/5b8a79a6a0cd5e9c767dbb0d9099ab0d.png);margin:1px
+0 0 -16px}.fullWidth.selectBtn,
+.fullWidth.selectBtn
+span{display:block;text-decoration:none;z-index:0}form.fullWidth{width:100%}.dj_ie9 .socialIco,
+.dj_ie9 .loginMsg,
+.dj_ie9 .loginBtn,
+.dj_ie9 .loginBtn:hover,
+.dj_ie9 .loginBtn:hover:active,
+.dj_ie9 .selectBtn:hover .leftBtn,
+.dj_ie9 .selectBtn:hover
+.rightBtn{filter:none}.loginBtn,
+.checkLbl,
+.forgetLnk,
+.loginLst a:link,
+.loginLst a:visited{-moz-user-select:none;-khtml-user-select:none;-webkit-user-select:none;-ms-user-select:none}@media screen and (max-width: 767px){#regLyr
+.columnL{margin-right:0}#regLyr
+.columnR{clear:both}#regLyr button.submitBtn,
+#regLyr
+.submitBtn{float:left;clear:both}.socialIco{margin:0
+5px}.captchaCnt{width:184px}#recaptchaImg{width:100%;min-height:0;transition:none;-o-transition:none;-ms-transition:none;-moz-transition:none;-webkit-transition:none}}.jshop
+h1{margin-top:0px;font-size:16px}.jshop td, .jshop
+tr{border:0px}td.jshop_categ{vertical-align:top;padding-bottom:20px}table.jshop{border-collapse:collapse;border:0px;width:100%}table.jshop
+td{vertical-align:top}table.list_product{margin-top:20px}#jshop_menu_order{margin-bottom:10px;border:1px
+solid #616161}td.jshop_order_step{padding:2px;padding-top:5px;padding-bottom:5px;text-align:center;vertical-align:middle}.jshop_order_step
+a{vertical-align:top;text-decoration:underline;font-size:12px}img.jshop_img{padding:1px;text-align:center;border:1px
+solid #808080}img.jshop_img_thumb{padding:1px;text-align:center;border:1px
+solid #808080;margin-left:5px;margin-right:5px;margin-bottom:5px;cursor:pointer}.jshop
+table.category{width:auto}table.jshop a
+img.jshop_video_thumb{padding:1px;text-align:center;margin-left:5px;margin-right:5px;margin-bottom:5px}div.jshop_prod_description{padding-top:10px;padding-bottom:10px}div.jshop_prod_attributes{padding:0;margin:0;padding-bottom:10px}td.jshop_img_description{vertical-align:top;text-align:left;padding-left:10px}td.jshop_img_description_center{vertical-align:top;text-align:left}.jshop_subtotal
+.value{text-align:right;width:12%;white-space:nowrap}.jshop_subtotal
+.name{text-align:right;padding-right:10px;width:88%}.jshop
+.total{font-weight:bold}.related_header{margin-top:20px;border-bottom:1px solid #999;font-weight:bold}table.list_related{margin-top:10px}tr#checkout
+td.td_1{text-align:left;font-weight:bold}tr#checkout
+td.td_2{text-align:right;font-weight:bold}table.jshop a
+img{border:0}.jshop_pagination{margin-left:auto;margin-right:auto}.jshop
+.product_list_hr{height:1px;border-top:1px solid #aaa;margin-bottom:10px}table.jshop_checkout{border:1px
+solid red;background-color:Gray}div.jshop_register{width:80%;text-align:left;padding:10px;padding-left:0px}.jshop_register
+.name{width:215px}.register_block .jshop_register
+.name{width:120px}.address_block .jshop_register
+.name{width:115px}.editaccount_block .jshop_register
+.name{width:115px}span.small_header{padding-bottom:3px;margin:0px;display:block;font-size:13px;font-weight:bold}span.jshop_error{color:red;font-weight:bold;font-size:14px;display:block}span.text_pay_without_reg{display:block;padding-bottom:10px}a.policy{text-transform:uppercase;color:#000;font-weight:bold}.jshop_payment_method{padding-left:20px}#active_step{font-weight:bold;padding:0;margin:0;vertical-align:middle}#order_add_info{width:400px;height:70px}p.jshop_cart_attribute{padding-left:10px;font-weight:bold;font-style:italic;font-size:11px;margin-top:1px;margin-bottom:4px}p.jshop_cart_extra_field{padding-left:10px;font-weight:bold;font-style:italic;font-size:11px;margin-top:1px;margin-bottom:4px}.jshop_price{color:#950000}td.jshop_categ
+a.product_link{font-size:14px}.table_order_list{width:100%;background-color:#F8F8F9;border:1px
+solid #333}.table_order_list
+td{vertical-align:top;text-align:left}span.attr{font-weight:bold;font-style:italic;font-size:10px}div.jshop_register
+.inputbox{width:240px}span.review{font-weight:bold;margin-top:20px;display:block}.review_text_not_login{margin-top:10px;font-style:italic}textarea.jshop{border:1px
+solid #b0b1b2}tr.reviews
+td{padding-bottom:15px}td.reviews{padding-left:45px}#mxcpr{padding-top:20px;text-align:right;display:block}#mxcpr
+a{font-size:9px}.jshop_code_prod{color:#999;font-weight:normal;font-size:12px}table.cart{border-collapse:collapse;border:1px
+solid #ccc}table.cart
+th{text-align:center;background-color:#ccc;padding:1px;color:#000}table.cart
+td{text-align:center;border:1px
+solid #ccc;padding:7px
+5px;vertical-align:top}table.cart th
+table{border-collapse:collapse}table.cart .odd
+td{background-color:#fff;color:#000}table.cart .even
+td{background-color:#f9f9f9;color:#000}table.cart
+.taxinfo{display:block;font-size:11px}table.cart
+.jshop_code_prod{font-size:10px}table.cart
+.manufacturer{padding:5px
+0px 6px 10px;font-size:11px;font-weight:bold;font-style:italic}table.cart
+.list_extra_field{padding-top:3px}.jshop
+.weightorder{text-align:right;margin-top:3px}.jshop
+.shippingfree{text-align:right;margin-top:3px}.jshop .price_prod_qty_list
+.qty_line{padding-left:5px;padding-right:5px}.jshop .price_prod_qty_list
+.qty_price{padding-left:5px;font-weight:bold}.jshop .price_prod_qty_list .qty_price
+span.per_piece{font-weight:normal}.jshop
+.prod_buttons{}.jshop
+span.old_price{text-decoration:line-through;font-style:normal}.jshop
+.list_product_demo{padding-top:10px}.jshop .list_product_demo
+table{}.jshop .list_product_demo
+.download{padding-left:5px}.jshop
+.not_available{color:red;margin-top:10px}.jshop_list_product
+.block_product{padding-bottom:20px}.jshop_list_product .jshop
+.old_price{text-decoration:line-through;font-style:normal;padding-bottom:1px}.jshop_list_product .product
+td{vertical-align:top}.jshop_list_product .product
+.image{padding-right:5px}.jshop_list_product .product
+.name{padding-top:2px}.jshop_list_product .product
+.description{font-size:11px;padding-bottom:5px}.jshop_list_product .product
+.buttons{padding-top:2px}.jshop_list_product .product
+table.review_mark{border-collapse:collapse;margin-top:2px;margin-left:auto;margin-right:auto}.jshop_list_product .product
+div.count_commentar{text-align:center !important}.jshop_list_product .product
+.taxinfo{font-size:11px}.jshop_list_product .product .plusshippinginfo, .jshop_list_product .product .plusshippinginfo
+a{font-size:11px}.jshop_list_product
+.jshop_related{padding-bottom:5px}.jshop_list_product
+.image_block{padding:2px}.jshop_list_product .jshop
+.not_available{margin-top:4px}.jshop_list_product
+.box_products_sorting{padding-right:5px}.jshop_list_product .box_products_sorting
+img{cursor:pointer}.jshop_list_product
+.box_products_count_to_page{}.jshop_list_product
+.margin_filter{height:8px}.jshop_list_product
+.box_manufacrurer{padding-right:5px;white-space:nowrap}.jshop_list_product
+.box_category{padding-right:5px;white-space:nowrap}.jshop_list_product
+.filter_price{padding-right:5px;white-space:nowrap}.jshop_list_product
+.box_price_from{padding-right:3px}.jshop_list_product
+.clear_filter{font-size:10px;padding-left:5px}.jshop
+.product_label{position:absolute;margin-left: -5px;margin-top: -5px}.jshop .product_label
+.label_name{font-weight:bold;color:#950000}.productfull
+#block_price{font-size:16px;font-weight:bold}.productfull
+.taxinfo{font-size:11px}.productfull
+.plusshippinginfo{font-size:11px}.productfull .plusshippinginfo
+a{font-size:11px}.productfull .prod_buttons
+.buttons{padding-left:10px}.productfull
+.prod_buttons{margin-top:5px}.productfull
+div.prod_url{text-align:right !important}.jshop_subtotal .plusshippinginfo, .jshop_subtotal .plusshippinginfo
+a{font-size:11px}.jshop_subtotal
+.free_discount{font-size:11px}.jshop_list_category .category
+td{vertical-align:top}.jshop_list_category .category
+.image{padding-right:5px}.jshop_list_manufacturer .manufacturer
+td{vertical-align:top}.jshop_list_manufacturer .manufacturer
+.image{padding-right:5px}.shipping_weight_to_price{margin-left:24px;margin-top:5px;border:1px
+solid #000}.shipping_weight_to_price
+.weight{}.shipping_weight_to_price
+.price{padding-left:5px}span.prod_attr_img{padding-left:5px}span.prod_attr_img
+img{width:20px;height:20px}.radio_attr_label
+img{width:20px;height:20px}.review_header{margin-top:20px;font-weight:bold;border-bottom:1px solid #999}.review_item{border-bottom:1px dotted #999;padding:10px;padding-left:0px}.review_user{font-weight:bold}.review_time{}.review_text{padding-top:2px;padding-bottom:2px}.review_mark{color:#333;height:18px}#jshop_review_write
+.inputbox{width:180px}.stars_no_active{height:16px;background-image:url(http://localhost/hogwel.ua/components/com_jshopping/images/star.gif);background-repeat:repeat-x;background-position:0px 0px}.stars_active{height:16px;background-image:url(http://localhost/hogwel.ua/components/com_jshopping/images/star.gif);background-repeat:repeat-x;background-position:0px -16px}.jshop
+.downlod_order_invoice{float:right}.jshop
+.order_payment_params{padding-top:3px;font-size:11px}.vendordetailinfo
+.name{width:150px}.vendordetailinfo
+.vendor_logo{float:right}.requiredtext{padding-bottom:10px;color:#A00;font-size:11px}.jshop
+.input_type_radio{margin-right:10px;white-space:nowrap;display:inline-block}.jshop_profile_data{margin-bottom:10px}.jshop_profile_data
+.name{font-weight:bold}.jshop_profile_data
+span{font-weight:bold}.jshop_profile_data
+span.subinfo{font-size:10px}.jshop_profile_data
+.jshop_user_group_info{font-size:10px}.jshop .groups_list
+.title{width:150px}.jshop_menu_level_0,.jshop_menu_level_0_a{margin-top:3px;margin-bottom:3px}.jshop_menu_level_1,.jshop_menu_level_1_a{padding-left:10px;margin-top:3px;margin-bottom:3px}.jshop_menu_level_2,.jshop_menu_level_2_a{padding-left:20px;margin-top:3px;margin-bottom:3px}.jshop_menu_level_0_a a, .jshop_menu_level_1_a a, .jshop_menu_level_2_a
+a{font-weight:bold !important}.label_products
+.block_item{margin-bottom:10px}.top_rating
+.block_item{margin-bottom:10px}.bestseller_products
+.block_item{margin-bottom:10px}.latest_products
+.block_item{margin-bottom:10px}.random_products
+.block_item{margin-bottom:10px}.jshop_filters
+.filter_price{padding-right:5px}.jshop_filters
+.clear_filter{display:block;font-size:10px}.jshop_button_print{width:30px;float:right;padding-top:3px;text-align:right}.extra_fields
+.extra_fields_group{font-weight:bold;padding-top:3px}.extra_fields
+div{}.filter_characteristic
+.characteristic_name{padding-top:5px}.filter_characteristic
+.characteristic_group{font-weight:bold;padding-top:5px}.jshop
+td.attributes_title{width:50px}.jshop
+span.attributes_description{font-style:italic;display:block}.jshop .prod_free_attribs
+.name{width:50px}.jshop
+span.freeattribut_description{font-style:italic;display:block}.jshop
+span.extra_fields_description{font-style:italic}.jshop
+.prod_attr_img{vertical-align:top}.jshop .cart
+.product_name{text-align:left}.jshop .prod_qty_input
+input{width:20px}.productfull
+.image_middle{width:100px}.productfull
+.manufacturer_name{padding-bottom:10px}.productfull
+.prod_free_attribs{padding-bottom:10px}.productfull
+.price_prod_qty_list{margin-bottom:10px}.productfull
+.button_back{padding-top:10px}.jshop_img_description
+#list_product_image_thumb{display:block}.productfull
+.text_zoom{padding-bottom:5px;padding-top:3px}.productfull .text_zoom
+img{float:left;padding-right:5px}.productfull a.lightbox:hover{color:#000 !important}.fielderror{background-color:#FDC055}table.order_history
+td{padding-right:15px;padding-bottom:5px;padding-top:3px}#k2Container{width:100%;display:inline-block;margin-bottom:10px}body.contentpane
+#k2Container{padding:15px}.k2Padding{padding:4px}.clr{clear:both;height:0;line-height:0;display:block;float:none}.k2FeedIcon{padding:4px
+8px}.k2FeedIcon a, .k2FeedIcon a:hover{display:block;float:right;margin:0;padding:0;width:16px;height:16px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/fugue/feed.png) no-repeat 50% 50%}.k2FeedIcon a span, .k2FeedIcon a:hover
+span{display:none}.itemRatingForm{display:block;vertical-align:middle;line-height:25px;float:left}.itemRatingLog{margin: -2px 0 0;padding:0
+0 0 4px;float:left;line-height:25px}.itemRatingForm
+.formLogLoading{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/system/loading.gif) no-repeat left center;height:25px;padding:0
+0 0 20px}.itemRatingList, .itemRatingList a:hover, .itemRatingList
+.itemCurrentRating{background:url('http://localhost/hogwel.ua/templates/zt_opis25/images/system/star.png') left -1000px repeat-x}.itemRatingList{position:relative;float:left;width:100px;height:14px;overflow:hidden;list-style:none;margin:5px
+6px 0!important;padding:0;background-position:left top}.itemRatingList
+li{display:inline;background:none;padding:0;border:none !important}.itemRatingList a, .itemRatingList
+.itemCurrentRating{position:absolute;top:0;left:0;text-indent:-1000px;height:14px;line-height:14px;outline:none;overflow:hidden;border:none;cursor:pointer}.itemRatingList a:hover{background-position:left center}.itemRatingList a.one-star{width:20%;z-index:6}.itemRatingList a.two-stars{width:40%;z-index:5}.itemRatingList a.three-stars{width:60%;z-index:4}.itemRatingList a.four-stars{width:80%;z-index:3}.itemRatingList a.five-stars{width:100%;z-index:2}.itemRatingList
+.itemCurrentRating{z-index:1;background-position:0 bottom;margin:0;padding:0}.siteRoot{display:none}.smallerFontSize{font-size:100%;line-height:inherit}.largerFontSize{font-size:150%;line-height:140%}.recaptchatable .recaptcha_image_cell,#recaptcha_table{background-color:#fff !important}#recaptcha_table{border-color:#eee !important}#recaptcha_response_field{border-color:#eee !important;background-color:#fff !important}.clearList{display:none;float:none;clear:both}.lastItem{border:none}.k2Avatar
+img{display:block}.k2Pagination{padding:0;margin:20px
+0 10px;text-align:center;color:#999;width:100%;display:inline-block}.itemIsFeatured,.catItemIsFeatured,.userItemIsFeatured{background:none}.userItemViewUnpublished{opacity:0.9;border:1px
+solid #dcdcdc;background:#fffff2;padding:8px}.itemView{padding:0;margin:0}.catItemEditLink,.itemEditLink{display:block;text-align:right;padding:8px
+36px;margin:0
+0 24px 0;border:1px
+solid #eee;background:#fffef4;font-size:20px;font-weight:normal;font-family:Georgia,"Times New Roman",Times,serif;font-style:italic}.itemHeader{overflow:hidden;margin:10px
+0 5px}.itemHeader .itemTitle, .genericItemTitle, .catItemHeader
+.catItemTitle{margin:0
+0 3px;padding:0;color:#222;font-size:21px;font-weight:normal;line-height:110%;position:relative}.catItemHeader{overflow:hidden;margin:0
+0 10px 0}.catItemHeader .catItemTitle span sup, .itemHeader .itemTitle span
+sup{padding:0
+0 0 5px;font:bold 10px Arial,Helvetica,sans-serif;letter-spacing:0;text-decoration:none;color:#E9403B;vertical-align:top}div.catItemContent{}div.catItemAdditionalInfo{float:left;font-size:92%;color:#999;margin-top:0}div.catItemAdditionalInfo>div,div.catItemAdditionalInfo>a,div.catItemAdditionalInfo>span{display:block;float:left;margin:0
+0 0 10px;padding:0
+4px 0 8px;border-left:1px solid #eee}div.catItemAdditionalInfo>div:first-child,div.catItemAdditionalInfo>a:first-child,div.catItemAdditionalInfo>span:first-child{margin:0;padding:0;border:none}.catItemView{overflow:hidden;padding:20px
+0;margin:0
+10px;border-bottom:1px solid #eee;clear:both}.catItemView:hover{background:#fff}.itemToolbar{margin:0px;width:100%;display:inline-block}.itemToolbar
+ul{list-style:none;margin:5px
+0;color:#888}.itemToolbar ul
+li{display:inline;list-style:none;font-size:11px;padding:0
+5px 0 10px;margin:0;border-left:1px solid #b1b1b1;text-align:center;background:none;border-bottom:none}.itemToolbar ul>li:first-child{border:none;padding-left:0!important}.itemToolbar ul li
+a{font-weight:normal}.itemToolbar ul li a:hover{}.itemToolbar ul li a
+img{vertical-align:middle;position:relative;top:0}.itemToolbar ul li
+a#fontDecrease{margin:0
+0 0 2px}.itemToolbar ul li a#fontDecrease
+img{width:13px;height:13px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/system/font_decrease.png) no-repeat}.itemToolbar ul li
+a#fontIncrease{margin:0}.itemToolbar ul li a#fontIncrease
+img{width:13px;height:13px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/system/font_increase.png) no-repeat}.itemToolbar ul li a#fontDecrease span, .itemToolbar ul li a#fontIncrease
+span{display:none}.itemBottom{overflow:hidden;margin:0;padding:5px
+0;border-bottom:1px dotted #ccc}.catItemRatingBlock,.itemRatingBlock{padding:0;line-height:25px;font-size:12px}.catItemRatingBlock{padding-top:12px}.catItemRatingBlock span, .itemRatingBlock
+span{display:block;float:left;font-style:normal;padding:0
+4px 0 0;margin:0;font-weight:600;color:#7B7B7B}.catItemBody{padding:0;margin:0}.itemBody{padding:6px
+5px 0;margin:0}.itemImageBlock{position:relative;clear:both;margin:0
+0 12px;padding:0}.catItemLinks{display:block;margin:0;clear:both}.catItemImageBlock{margin:0px
+15px 0 0;padding:0;float:left}span.itemImage{text-align:left;margin:0
+0 8px 0;display:inline-block;background:#fff;border:1px
+solid #ddd;padding:6px}span.catItemImage{margin:0
+0 10px;display:inline-block;background:#fff;padding:5px;border:1px
+solid #ddd}span.catItemImage:hover{background:#DDD;border:1px
+solid #ccc}span.catItemImage
+a{display:block}span.itemImage img, span.catItemImage
+img{margin:0;padding:0;float:left}span.itemImageCaption,span.itemImageCredits{position:absolute;bottom:20px;left:12px;line-height:100%;padding:3px
+10px;font-size:14px;color:#eee;background:#101010;background:rgba(25,25,25,0.75)}.catItemIntroText,.itemIntroText{padding:0;margin:10px
+0;line-height:20px}.itemIntroText{font-weight:bold;font-size:110%}.itemFullText
+h3{margin:0;padding:16px
+0 4px 0}.itemFullText
+img{padding:6px;margin:4px;background:#fff}.catItemExtraFields,.itemExtraFields{clear:both;margin:10px
+0;padding:0}.catItemExtraFields h4, .itemExtraFields
+h3{font-size:28px;font-weight:normal;height:auto;line-height:28px;margin:32px
+0 22px 6px;padding:0
+0 6px;border-bottom:1px solid #eee}.catItemExtraFields ul li, .itemExtraFields ul
+li{display:block;overflow:hidden;border-bottom:1px solid #eee;margin:0
+2px;padding:3px
+20px 3px 4px}.catItemExtraFields ul li span.catItemExtraFieldsLabel, .itemExtraFields ul li
+span.itemExtraFieldsLabel{display:block;float:left;font-weight:bold;margin:0
+4px 0 0;width:30%}.catItemExtraFields ul li span.catItemExtraFieldsValue, .itemExtraFields ul li
+span.itemExtraFieldsValue{margin-left:30%;display:block}span.itemDateModified{float:right;font-style:italic;color:#999;font-size:11px;display:none}.itemrows{overflow:hidden;margin-bottom:15px}.itemuser{overflow:hidden;margin:20px
+0;background:#F8F8F8;border:1px
+solid #e5e5e5;padding:10px}.itemLinks{margin:0
+0 4px;font-size:11px;color:#7B7B7B;width:39%;float:left}.itemHitsTwitter,.itemCategory,.catItemTagsBlock,.itemTagsBlock,.itemSocialSharing{padding:2px
+0;min-height:20px;line-height:20px}.catItemTagsBlock{color:#999}.itemSocialSharing{padding:0;border-bottom:none;overflow:hidden}.itemSocialSharing
+div{float:left;display:inline;width:auto;margin:3px
+0}.itemSocialSharing
+iframe{background:none !important;border:none !important}.userItemReadMore{float:left;display:block}a.k2ReadMore{padding:4px
+10px;color:#fff;cursor:pointer;display:inline-block;text-shadow:0px 1px 1px #3b789f;border:1px
+solid #79b7dd;border-bottom:1px solid #67a6cd;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/button.png) #76b7e0 repeat-x 0 0 }a.k2ReadMore
+span{display:inline-block}a.catComments{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/button.png)  repeat-x 0 0 #ddd;border:1px
+solid #b7b7b7;color:#333;display:inline-block;margin:0
+10px;padding:4px
+10px;text-decoration:none}a.k2ReadMore:hover,a.catComments:hover{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/button.png)  repeat-x 0 0 #CF1F18;border:1px
+solid #b4120c;color:#fff}span.itemHitsTwitterSep{padding:0
+8px;color:#eee}span.itemTwitterLink
+a{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/social/twitter_16.png) no-repeat 0 50%;padding:2px
+0 0 20px;margin:8px
+0;text-decoration:none}span.itemTwitterLink a:hover{text-decoration:none}.catItemTagsBlock ul.catItemTags, .itemTagsBlock
+ul.itemTags{list-style:none;padding:0;margin:0;display:inline}.catItemTagsBlock ul.catItemTags li, .itemTagsBlock ul.itemTags
+li{display:inline;background:none;padding:0;border-bottom:none;list-style:none;line-height:2;margin:0;text-align:center}.catItemTagsBlock ul.catItemTags li a,
+.itemTagsBlock ul.itemTags li a,
+.itemCategory
+a{padding:2px
+6px;border-radius:5px;font-weight:normal}.catItemTagsBlock ul.catItemTags li a,
+.itemTagsBlock ul.itemTags li
+a{background:#a5a5a5;color:#fff}.catItemTagsBlock ul.catItemTags li a:hover, .itemTagsBlock ul.itemTags li a:hover{background:#b4120c}.itemSocialLinksBlock
+span{padding:0
+10px 0 0;float:left;display:block}.itemSocialLinksBlock
+ul.itemSocialLinks{list-style:none;padding:0;margin:0;clear:none;float:left}.itemSocialLinksBlock ul.itemSocialLinks
+li{float:left;list-style:none;padding:0
+4px;margin:0}.itemSocialLinksBlock ul.itemSocialLinks li
+a{float:left;display:block;width:19px;height:19px;background-position:0 0;background-repeat:no-repeat}.itemSocialLinksBlock ul.itemSocialLinks li a:hover{}.itemSocialLinksBlock ul.itemSocialLinks li a
+span{display:none}a.delicious{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/social/delicious_16.png)}a.digg{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/social/digg_16.png)}a.facebook{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/social/facebook_16.png)}a.googlebuzz{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/social/googlebuzz_16.png)}a.myspace{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/social/myspace_16.png)}a.reddit{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/social/reddit_16.png)}a.stumble{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/social/stumbleupon_16.png)}a.technorati{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/social/technorati_16.png)}.catItemAttachmentsBlock,.itemAttachmentsBlock{padding:4px;border-bottom:1px dotted #eee}.catItemAttachmentsBlock span, .itemAttachmentsBlock
+span{font-weight:bold;padding:0
+4px 0 0}.catItemAttachmentsBlock ul.catItemAttachments, .itemAttachmentsBlock
+ul.itemAttachments{list-style:none;padding:0;margin:0;display:inline}.catItemAttachmentsBlock ul.catItemAttachments li, .itemAttachmentsBlock ul.itemAttachments
+li{display:inline;list-style:none;padding:0
+4px;margin:0;text-align:center}.catItemAttachmentsBlock ul.catItemAttachments li span, .itemAttachmentsBlock ul.itemAttachments li
+span{font-size:10px;color:#999;font-weight:normal}.modulePretext{margin:0!important;padding:0
+!important;font-size:11px}.itemAuthorBlock,.userBlock{margin:25px
+0;overflow:hidden}.itemAuthorBlock
+.itemAuthorAvatar{display:block;float:left;margin:10px;padding:5px;border:1px
+solid #ddd;background:#fff;overflow:hidden}.itemAuthorBlock .itemAuthorAvatar
+img{display:block}.itemAuthorBlock
+.itemAuthorDetails{margin:10px;padding:0;float:left;width:77%}.itemAuthorBlock
+.itemAuthorDetails.leftmargin{margin-left:205px}div.itemuser
+.itemAuthorBlock{width:58%;background:none;border:none;float:right;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0 }div.itemuser .itemAuthorBlock
+.itemAuthorAvatar{margin:0
+10px 0 0}div.itemuser .itemAuthorBlock
+.itemAuthorDetails{width:65%;margin:0}.userBlock>div{padding:18px
+30px 12px;overflow:hidden}.catItemList{width:100%;display:inline-block}.itemAuthorBlock{margin:10px
+0;float:left;width:100%;background:#F1F1F1 url("http://localhost/hogwel.ua/templates/zt_opis25/images/button.png") repeat-x 0 0;border:1px
+solid #DADADA;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px }.itemAuthorBlock .itemAuthorDetails
+h3.itemAuthorName{margin:5px
+0 10px;padding:0;font-size:20px;font-weight:normal}.itemAuthorURL{border-top:1px dotted #9e9e9e;display:block;padding:5px
+0}.itemAuthorBlock .itemAuthorDetails
+p{margin:2px
+0 6px;font-size:12px;line-height:20px}.itemAuthorBlock
+.k2FeedIcon{float:right}.latestItemsUser,.userBlock{font-size:90%}.userBlock{margin-bottom:32px;overflow:hidden}.userBlock
+p{font:11px/19px Verdana, Arial, Geneva, sans-serif}.itemAuthorBlock .itemAuthorDetails
+span.itemAuthorUrl{padding:5px
+0 0 0;width:100%;display:inline-block;border-top:1px dotted #ccc}.itemAuthorBlock .itemAuthorDetails
+span.itemAuthorEmail{font-weight:bold}.userBlock
+p.userDescription{padding:0!important;margin:0!important}.userBlock
+p.userAdditionalInfo{padding:8px
+0 6px;margin:5px
+12px 0;font-size:11px}.userBlock p.userAdditionalInfo
+span{margin-right:16px}.userBlock p.userAdditionalInfo span
+a{font-weight:normal;margin:0
+6px}.itemRelated,.itemAuthorLatest{float:right;width:45%;padding:10px
+5px }.itemAuthorLatest{float:left}.itemRelated h3, .itemAuthorLatest
+h3{font-size:21px;color:#222;font-weight:normal;line-height:100%;margin:0
+0 15px;padding:0}.itemRelated h3 span, .itemAuthorLatest h3
+span{padding-right:13px}.itemAuthorLatest ul, .itemRelated
+ul{padding:0}.itemRelated ul li, .itemAuthorLatest ul
+li{list-style:none;padding:4px
+15px;border-top:1px dotted #ddd;border-bottom:none;margin-bottom:3px}.catItemVideoBlock,.itemVideoBlock{margin:0
+0 16px 0;padding:16px;background:#010101 url(http://localhost/hogwel.ua/templates/zt_opis25/images/system/videoplayer-bg.gif) repeat-x bottom}.catItemVideoBlock .catItemVideoEmbedded, .itemVideoBlock
+.itemVideoEmbedded{text-align:center}.catItemVideoBlock span.catItemVideo, .itemVideoBlock
+span.itemVideo{display:block;overflow:hidden}.itemVideoBlock
+span.itemVideoCaption{color:#eee;float:left;display:block;font-size:11px;font-weight:bold;width:60%}.itemVideoBlock
+span.itemVideoCredits{color:#eee;float:right;display:block;font-style:italic;font-size:11px;width:35%;text-align:right}.catItemImageGallery,.itemImageGallery{margin:0
+0 16px 0;padding:0}.itemNavigation{margin:15px
+0;padding:10px;background:#F8F8F8;border:1px
+solid #e5e5e5}.itemNavigation
+span.itemNavigationTitle{margin:0
+0 10px;font-weight:bold;color:#999}.itemNavigation a.itemPrevious, .itemNavigation
+a.itemNext{font-size:12px;padding:0
+12px 0 0}.itemNavigation
+a.itemNext{float:right}.itemComments{overflow:hidden;margin:15px
+0 0;padding:10px}.itemCommentsForm{padding:12px
+0}.itemComments
+ul.itemCommentsList{margin:16px
+0;padding:0;list-style:none}.itemComments ul.itemCommentsList
+li{padding:0;margin:0;line-height:1.8;background:none}.itemComments ul.itemCommentsList li:first-child{margin-top:0}.itemComments ul.itemCommentsList li>div{padding:12px;font-size:12px;border-bottom:1px solid #eee;position:relative}.itemComments ul.itemCommentsList
+li.odd{border-top:none}.itemComments ul.itemCommentsList
+li.authorResponse{}.itemComments ul.itemCommentsList li .block-img{margin:6px
+20px 0 0 !important;float:left;padding:3px;border:1px
+solid #ddd;position:relative}.itemComments ul.itemCommentsList li
+span.commentDate{color:#fff;font-size:12px;font-weight:bold}.itemComments ul.itemCommentsList li
+span.commentDate{font-size:11px;font-weight:normal;color:#acacac}.itemComments ul.itemCommentsList li
+p{padding:0;margin:0
+010px}.itemComments ul.itemCommentsList li
+span.commentAuthorEmail{display:none}.itemComments ul.itemCommentsList li span.commentLink
+a{float:right;font-size:11px;font-style:italic}.itemComments ul.itemCommentsList li
+span.commentLink{position:absolute;right:0;bottom:10px}.itemCommentsPagination{padding:4px;margin:0
+0 24px 0}.itemCommentsPagination
+span.pagination{display:block;float:right;clear:both}.itemComments
+h3{font-size:21px;line-height:100%;margin:0
+0 12px 0;padding:0
+0 5px;color:#222;font-weight:normal;border-bottom:1px dotted #ccc}.itemComments .commentAuthorName
+a{display:block;padding:9px
+12px 0 0;font-size:13px;font-weight:bold;color:#333}.itemCommentsForm
+p.itemCommentsFormNotes{font-size:11px;margin:0px
+0 32px}.itemCommentsForm
+form{}.itemCommentsForm form
+label{display:block;font-size:11px;padding:0
+0 4px;margin:12px
+0 0 2px}.itemCommentsForm form input.inputbox, .itemCommentsForm form
+textarea.inputbox{display:block;width:96%;margin:0;padding:7px}.itemCommentsForm form
+textarea.inputbox{height:160px;padding:8px}.itemCommentsForm form
+input#submitCommentButton{margin:32px
+0}.itemCommentsForm form
+span#formLog{margin:0
+0 0 20px;padding:0
+0 0 20px;font-weight:bold;color:#CF1919}.itemCommentsForm form
+.formLogLoading{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/system/loading.gif) no-repeat left center}.itemBackToTop{float:right;margin: -42px 24px 0 0;text-align:right;height:15px;line-height:15px}.itemBackToTop
+a{text-transform:capitalize}.itemListCategory{margin:0
+0 36px}span.catItemAddLink,span.userItemAddLink{clear:both;display:block;text-align:right;padding:4px;margin:0
+0 4px 0;border-bottom:1px solid #eee}.latestItemsCategoryImage{text-align:center}.latestItemsCategoryImage img, .itemListCategory
+img{float:left;display:block;background:#fff;padding:4px;border:1px
+solid #eee;margin:0
+8px 0 0}.latestItemsCategory h2, .itemListCategory
+h2{font-size:24px;font-weight:normal;margin:0;padding:0}.latestItemsCategory p, .itemListCategory
+p{margin:10px
+0!important}.itemListSubCategories
+h3{margin: -1px -11px 10px;color:#3a3a3a;padding:10px;border:1px
+solid #dadada;text-shadow:1px 1px 1px #fff;font-weight:normal;font-size:166.7%;position:relative;z-index:9;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/moduletitle.png) #ededed repeat-x 0 0}.subCategoryContainer{float:left}.subCategory{margin:10px
+10px 20px;border:1px
+solid #ddd;padding:8px}.subCategory-inner{}.subCategory
+a.subCategoryImage{float:left;display:block;margin-bottom:10px;background:#000;position:relative}.subCategory a.subCategoryImage
+img{margin:0;background:#000}.subCategory:hover{background:#0e293b;border:1px
+solid #333}.subCategory:hover h2
+a{color:#fff}.subCategory:hover
+p{color:#ddd}.subCategory:hover
+a.k2ReadMore{background:#CF1F18;border:1px
+solid #b4120c;color:#fff}.subCategory:hover a.subCategoryImage
+img{filter:alpha(opacity=100);opacity:1}.subCategory:hover
+a.k2ReadMore{-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;border:1px
+solid #df2a2a}.subCategory
+h2{font-size:140%;font-weight:normal;margin:0;clear:both;display:inline-block}.subCategory h2
+span{font-size:13px;font-weight:bold}.subCategory
+p{line-height:1.6}.subCategoryMore{margin:10px
+3px 0;padding:5px
+10px;color:#fff;cursor:pointer;background:#04add1;border:1px
+solid #008ba9;-webkit-transition:all 0.3s ease 0s;-moz-transition:all 0.3s ease 0s;-o-transition:all 0.3s ease 0s}div.subCategory:hover .overlay-img{width:100%;height:100%;position:absolute;left:0;top:0;display:block;text-align:center;background:rgba(218, 39, 39, 0.4) url(http://localhost/hogwel.ua/templates/zt_opis25/images/icon/more-photo.png) no-repeat center center }.subCategoryMore:hover{background:#04add1;color:#fff;text-shadow:none}#itemListLinks{border-top:1px solid #eee;margin:8px
+0;padding:8px}.itemContainer{margin:0
+}.latestItemList{margin:0}.latestItemView{margin-top:32px!important}.latestItemView:first-child{margin-top:0!important}.itemListView
+.itemList{margin:0}.groupLinks{padding:0;margin:0}.catItemCommentsLink{background:transparent url('http://localhost/hogwel.ua/templates/zt_opis25/images/comments.png') no-repeat 100% 0;font-size:11px;display:inline;margin:0
+8px 0 4px;padding:0
+24px 0 12px;line-height:3}.catItemReadMore{font-size:100%;display:inline}.catItemReadMore a:hover.k2ReadMore{}.itemListView .k2Pagination, .genericView .k2Pagination, .userView
+.k2Pagination{}.itemListView .k2Pagination ul, .genericView .k2Pagination ul, .userView .k2Pagination
+ul{border-top:none!important;margin:0;padding:0}h2.latestItemTitleList{font-size:14px;padding:2px
+0;margin:8px
+0 2px 0;font-family:Arial,Helvetica,sans-serif;border-bottom:1px dotted #eee;line-height:normal}.k2AccountPage table tr td
+label{white-space:nowrap}img.k2AccountPageImage{border:1px
+solid #eee;margin:10px
+0;padding:0;display:block}.k2AccountPage
+.k2AccountPageNotice{padding:8px}.k2AccountPage
+.k2AccountPageUpdate{border-top:1px dotted #eee;margin:8px
+0;padding:8px;text-align:right}.k2LatestCommentsBlock
+ul{padding:0
+0 10px 0 !important}.k2LatestCommentsBlock ul li, .k2TopCommentersBlock ul
+li{padding:5px
+0;list-style:none;background:none;line-height:1.3;font-weight:normal;border-bottom:1px dotted #ddd}.k2LatestCommentsBlock ul
+li.even{}.k2LatestCommentsBlock ul li:first-child{margin-top:0!important}.k2LatestCommentsBlock
+span.lcUsername{font-weight:bold;display:block;font-size:14px;text-transform:capitalize}.k2LatestCommentsBlock span.lcUsername
+a{color:#000}.k2LatestCommentsBlock
+span.lcCommentDate{display:block;color:#c5c5c5;margin:5px
+0}.k2LatestCommentsBlock
+.k2CommentItem{border-top:none;margin:0
+0 0 71px}.k2LatestCommentsBlock ul li .k2Avatar,
+.k2UsersBlock ul li .k2Avatar,
+.itemComments ul.itemCommentsList li .commentAuthorAvatar,
+.k2AuthorsListBlock
+.k2Avatar{display:block!important;float:left;margin:0
+15px 10px 0;padding:3px;background:#fff;border:1px
+solid #ddd;position:relative}.k2LatestCommentsBlock ul li a.lcAvatar img, .itemComments ul.itemCommentsList li .commentAuthorAvatar img, .k2AuthorsListBlock .abAuthorAvatar
+img{display:block;margin:0!important;padding:0!important}.itemComments ul.itemCommentsList li
+.commentAuthorAvatar{margin-left: -60px!important;margin-top:16px!important}.k2Avatar{position:relative}div.avatar-arrow{width:10px;height:14px;display:block;position:absolute;right: -9px;top:13%;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/avata-arrow.png) no-repeat 0 0}.k2CommentItem
+p{margin:0
+0 8px}.k2CommentItem
+span{display:block;font-size:11px;padding:2px
+0 0;color:#888}.k2LatestCommentsBlock ul li
+.lcComment{display:block;clear:both}.k2AuthorsListBlock ul
+li{border:none;border-bottom:1px solid #eee;padding:12px
+0}.k2AuthorsListBlock ul li
+a.abAuthorLatestItem{display:block;clear:both;margin:12px
+0 0;padding:0
+0 0 12px;font-size:11px;line-height:14px;background:url('http://localhost/hogwel.ua/templates/zt_opis25/images/bullet.png') no-repeat 0 5px}.k2AuthorsListBlock ul li a.abAuthorLatestItem
+span{display:block;font-size:10px;color:#777}.k2TopCommentersBlock ul li
+span.tcLatestCommentDate{}.tcUsername{font-size:18px;color:#333}.tcLatestComment{display:block;margin:6px
+0;font-size:11px;color:#777;line-height:16px}.tcLatestCommentDate{display:block;font-size:11px;color:#999}div .k2ItemsBlock
+ul{}div .k2ItemsBlock ul
+li{margin:0;border-bottom:1px dotted #CCC;background:none;padding:0px
+0px 10px;list-style:none }.k2ItemsBlock ul li
+a.moduleItemTitle{display:block;color:#000;font-size:12px;line-height:18px}.k2ItemsBlock ul li a:hover.moduleItemTitle{}.k2ItemsBlock ul li
+.moduleItemAuthor{color:#666;margin:5px
+0}.k2ItemsBlock ul li .moduleItemAuthor
+a{font-size:13px}.k2ItemsBlock ul li
+a.moduleItemAuthorAvatar{border:1px
+solid #ddd;display:block;float:right;height:auto;padding:3px;margin:0
+0 15px 0}.k2ItemsBlock ul li a.moduleItemAuthorAvatar div.avatar-arrow{left: -10px;right:auto;background:url("http://localhost/hogwel.ua/templates/zt_opis25/images/avata-arrow-rtl.png") no-repeat 0 0}.k2ItemsBlock ul li
+.moduleItemIntrotext{display:block;padding:5px
+0;line-height:1.6}.k2ItemsBlock .viewitemcontent
+h3{line-height:1.4;margin:0px
+0 5px;padding:0;text-transform:none }.k2ItemsBlock ul li .moduleItemIntrotext a.moduleItemImage
+img{float:left;overflow:hidden}.moduleItemExtraFields ul li
+span.moduleItemExtraFieldsLabel{display:block;float:left;font-weight:bold;margin:0
+4px 0 0;width:30%}.k2ItemsBlock ul li
+a.moduleItemCategory{font-size:90%}.k2ItemsBlock ul li
+.moduleItemTags{font-size:90%}.k2ItemsBlock ul li .moduleItemTags
+a{padding:0
+2px}.k2ItemsBlock ul li
+.moduleAttachments{font-size:90%}a.moduleItemComments{border-right:1px solid #DADADA;font-size:90%;margin:0
+8px 0 0;padding:0
+4px 0 0}.k2ItemsBlock ul li
+span.moduleItemHits{font-size:90%;border-right:1px solid #dadada;padding:0
+4px 0 0;margin:0
+8px 0 0}.k2ItemsBlock
+.moduleItemImage{display:block;padding:3px;border:1px
+solid #ddd;background:#fff;margin:0
+10px 0px 0;overflow:hidden;float:left}.k2ItemsBlock
+a.moduleCustomLink{font-size:90%}.k2ItemsBlock
+.k2FeedIcon{padding:0;margin-top: -20px}.k2LoginBlock
+fieldset.input{margin:0;padding:0
+0 8px 0}.k2LoginBlock fieldset.input
+p{margin:0;padding:0
+0 10px 0}.k2LoginBlock fieldset.input p
+label{display:block}.k2LoginBlock fieldset.input p
+input{display:block}.k2LoginBlock fieldset.input p#form-login-remember label, .k2LoginBlock fieldset.input p#form-login-remember
+input{display:inline}.k2UserBlock
+p.ubGreeting{border-bottom:1px dotted #eee}.k2UserBlock .k2UserBlockDetails
+span.ubName{display:block;font-weight:bold;font-size:14px}.k2BreadcrumbsBlock
+span.bcTitle{padding:0
+4px 0 0;color:#999}.k2BreadcrumbsBlock
+span.bcSeparator{padding:0
+4px;font-size:14px}.k2CalendarBlock{margin-bottom:8px}.k2CalendarLoader{background:#fff}table.calendar{width:100%;margin:0
+auto;background:#fff;border-collapse:collapse}table.calendar tr
+td{text-align:center;vertical-align:middle;padding:3px;border:1px
+solid #eee;background:#fff}table.calendar tr td.calendarNavMonthPrev, table.calendar tr
+td.calendarNavMonthNext{background:#fff;text-align:center;font-size:15px !important}table.calendar tr td.calendarNavMonthPrev a, table.calendar tr td.calendarNavMonthNext
+a{text-decoration:none}table.calendar tr td.calendarNavMonthPrev a:hover, table.calendar tr td.calendarNavMonthNext a:hover{text-decoration:none}table.calendar tr
+td.calendarCurrentMonth{background:#fff;font-size:11px;text-transform:uppercase;color:#333}table.calendar tr
+td.calendarDayName{background:#f5f5f5;font-size:11px;width:14.2%;color:#333;font-weight:600}table.calendar tr
+td.calendarDateEmpty{background:#fbfbfb}table.calendar tr
+td.calendarDate{font-size:11px}table.calendar tr
+td.calendarDateLinked{padding:0}table.calendar tr td.calendarDateLinked
+a{display:block;padding:2px;text-decoration:none;background:#fff}table.calendar tr td.calendarDateLinked a:hover{display:block;background:#222;color:#fff;padding:2px;text-decoration:none}table.calendar tr
+td.calendarToday{background:#78A8D5;color:#fff}table.calendar tr
+td.calendarTodayLinked{background:#78A8D5;color:#333;padding:0}table.calendar tr td.calendarTodayLinked
+a{display:block;padding:2px;color:#fff;text-decoration:none}table.calendar tr td.calendarTodayLinked a:hover{display:block;background:#f8fcfe;color:#78A8D5;padding:2px;text-decoration:none}.k2CategorySelectBlock form
+select{width:auto}div.moduletable.box-grey{padding:10px;margin-bottom:2em;background:#00a7d7;border-bottom:3px solid #017799}#zt-mainframe div.box-grey
+h3.moduletitle{color:#fff;border-bottom:none;margin:5px
+0 0;background:none;text-shadow:none}div.box-grey
+div.modulecontent{background:#fff}.k2CategoriesListBlock{margin:0}.k2CategoriesListBlock ul.level0
+li{padding:6px
+0 6px 15px;background-position:3px 9px;border-bottom:1px solid #e5e5e5}.k2CategoriesListBlock ul.level0 li:hover{background-color:#eee }.k2CategoriesListBlock ul.level0 li
+a{color:#333}.k2CategoriesListBlock ul.level0 li a:hover{color:#4A209F}.k2CategoriesListBlock ul.level0 li
+span.catCounter{color:#888;font-size:11px;font-weight:normal}.k2CategoriesListBlock ul.level0 li:first-child{}.k2CategoriesListBlock ul.level0 li
+li{}.k2CategoriesListBlock ul.level0 li.active a, .k2CategoriesListBlock ul.level0 li#current.parent.active
+a{}.k2CategoriesListBlock ul.level0 li a:hover, .k2CategoriesListBlock ul.level0 li#current li a:hover{}.k2CategoriesListBlock ul.level0 > li
+ul{}.k2TagCloudBlock{padding:8px
+0;font-size:15px}.k2TagCloudBlock
+a{float:left;display:block;margin:0;padding:4px
+8px;line-height:1;text-decoration:none}.k2TagCloudBlock a:hover{}.k2TagCloudBlock a.small-tag{font-weight:normal}.k2TagCloudBlock a.medium-tag{font-weight:bold}.k2TagCloudBlock a.big-tag{font-weight:bold}#k2Container .gsc-branding-text{text-align:right}#k2Container .gsc-control{width:100%}#k2Container .gs-visibleUrl{display:none}a.ubUserFeedIcon,a.ubUserFeedIcon:hover{display:inline-block;margin:0
+2px 0 0;padding:0;width:16px;height:16px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/fugue/feed.png) no-repeat 50% 50%}a.ubUserFeedIcon span, a.ubUserFeedIcon:hover
+span{display:none}a.ubUserURL,a.ubUserURL:hover{display:inline-block;margin:0
+2px 0 0;padding:0;width:16px;height:16px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/fugue/globe.png) no-repeat 50% 50%}a.ubUserURL span, a.ubUserURL:hover
+span{display:none}span.ubUserEmail{display:inline-block;margin:0
+2px 0 0;padding:0;width:16px;height:16px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/fugue/mail.png) no-repeat 50% 50%;overflow:hidden}span.ubUserEmail
+a{display:inline-block;margin:0;padding:0;width:16px;height:16px;text-indent:-9999px}.k2UsersBlock ul li
+h3{clear:both;margin:8px
+0 0 0;padding:0;font-size:120%}.moduleItemDateCreated{color:#999;display:block;font-size:95%}div.headercontent{padding:0;position:relative}div.k2LoginBlock{display:block;margin:0}div.k2UsersBlock ul
+li{padding:0;background:none;border-bottom:none}div.k2UsersBlock ul li
+a.ubUserName{font-weight:bold}div.arrow-headcontent{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/arrow-headcontent.png) no-repeat;width:17px;height:12px;display:block;position:absolute;right:15px;bottom:-11px}ul.ubUserItems{margin:5px
+0}#zt-content-bottom{width:100%;display:inline-block;border:1px
+solid #DDD;border-top:3px solid #78A8D5;background:#fff;margin-bottom:15px}#zt-content-bottom-inner{margin:10px;overflow:hidden;position:relative}#zt-content-bottom
+div.moduletable{width:65%;margin-bottom:20px}#zt-content-bottom
+div.moduletable.testimonial{background:#FDFBE9;border:1px
+solid #D8D3B4;color:#666;padding:20px
+20px 0;position:absolute;right:0;text-align:center;top:0px;width:108px}#zt-content-bottom div.moduletable
+h3.moduletitle{overflow:hidden;background:none;padding:0
+0 10px;font-size:130%}#zt-content-bottom div.moduletable
+p{margin:0}#zt-content-bottom div.moduletable h3.moduletitle
+a{color:#333}#zt-content-bottom div.moduletable h3.moduletitle a:hover{color:#0ABEE5}#zt-content-bottom div.moduletable
+img{border:1px
+solid #DDD;margin:0
+20px 0 0;padding:3px}#zt-content-bottom div.moduletable.testimonial
+blockquote{margin:0;padding:0;background:none}#zt-content-bottom div.moduletable div.testimonial
+p{margin:0
+0 15px;padding:0}#zt-content-bottom div.moduletable div.testimonial blockquote
+span{color:#0ABEE5;font-style:italic}#zt-content-bottom div.moduletable div.testimonial
+p.vote{background:url("http://localhost/hogwel.ua/templates/zt_opis25/images/icon/icon-voting.png") no-repeat scroll 50% 0 transparent;padding:20px
+0 0}.inputbox{border:1px
+solid #ddd;margin-right:5px;padding:5px}.requiredtext{color:#c00;margin:10px
+0}.jshop_img_description_center{text-align:center}img.calendar{vertical-align:middle}.cart
+.jshop_img{width:80px}h1.jshop-titleheading,.jshop-pagetitle{background:url("http://localhost/hogwel.ua/templates/zt_opis25/images/moduletitle.png") repeat-x  0 0;border:1px
+solid #DADADA;color:#3A3A3A;margin: -1px -11px 0;padding:8px
+10px;margin-bottom:10px;position:relative;text-shadow:1px 1px 1px #FFF;z-index:9}.nts-category-row{}.nts-category-wrap{float:left}.col-first .nts-category{margin-left:0;margin-right:0}.col-last .nts-category{margin-left:0;margin-right:0}.nts-category-wrap .nts-category{margin:2px;min-height:225px;padding:15px
+8px}@media all and (-webkit-min-device-pixel-ratio:10000),not all and (-webkit-min-device-pixel-ratio:0){.nts-list-category{margin:0
+-10px 0 -1px}}.nts-category-wrap .nts-category:hover{background:#000;color:#fff}.nts-category-short-desc{color:#808080}.nts-category-wrap .nts-category:hover .nts-category-short-desc{color:#fff}.nts-category-wrap .nts-category
+h3{font-family:"abelregular",Arial,sans-serif;font-size:180%;font-weight:100;margin:10px
+0;text-transform:none}.nts-category-wrap .nts-category h3
+a{color:#222;text-decoration:none}.nts-category-wrap .nts-category h3 a:hover,
+.nts-category-wrap .nts-category h3 a:focus,
+.nts-category-wrap .nts-category h3 a:active{color:#fff;text-decoration:underline}.nts-category-wrap .nts-category:hover h3
+a{color:#fff}.nts-category .nts-category-image
+img.jshop_img{background:#fff;border:1px
+solid #eee;padding:5px}.product-filter{overflow:hidden;margin-bottom:10px}.product-filter
+.jshop{float:right}.product-filter .jshop
+td{padding-left:10px;padding-right:0}.product-filter
+.inputbox{border-radius:3px;color:#919191;margin-left:5px;padding:2px;margin-right:0;-webkit-border-radius:3px;vertical-align:middle}.product-filter
+span{color:#6d6d6d;font-size:11px}.product-filter
+img{vertical-align:middle;cursor:pointer}.jshop_list_product{}.jshop_list_product .jshop
+.jshop_categ{float:left;padding:0;vertical-align:top}.jshop_list_product .jshop
+.product_row{margin-bottom:10px}.jshop_list_product .jshop .product_row:first-child{border:none;padding-top:0}.jshop_list_product .jshop .jshop_categ
+.product{padding:5px
+5px 15px;margin:0
+0 10px}.jshop_list_product .jshop .jshop_categ.block-last
+.product{border-right:none}.jshop_list_product .jshop .jshop_categ .product:hover{background:#efefef;-moz-box-shadow:inset 0 0 15px #ccc;-webkit-box-shadow:inset 0 0 15px #ccc;box-shadow:inset 0 0 15px #ccc}.jshop_list_product .jshop .jshop_categ .product:hover .product-name a,
+.jshop_list_product .jshop .jshop_categ .product:hover .name
+a{color:#e10707}.jshop_list_product .jshop .jshop_categ .product:hover .product-image{border:1px
+solid #b5b5b5}.jshop_list_product .jshop .jshop_categ .product:hover div.bt-buy{background-position:left bottom}.jshop_list_product .product-image{display:block;padding:10px;border:1px
+solid #ddd;width:125px;height:90px;background:#fff;text-align:center}.jshop_list_product .product-image
+a{display:block;height:90px;overflow:hidden}.jshop_list_product .product .product-name ,
+.jshop_list_product .product
+.name{text-align:center;display:block;margin-top:10px;min-height:35px}.jshop_list_product .product .product-name
+a{color:#000;font-weight:100;letter-spacing: -0.1px}.jshop_list_product .product .product-name a:hover{color:#CF1F18}.jshop_list_product .product .product-name
+span{color:#000;font-family:"abelregular",Arial,sans-serif;font-style:italic;font-weight:100}.jshop_list_product .review-comment{margin-bottom:15px}.jshop_list_product
+.review_mark{float:left;margin-right:20px}.review_header{border-bottom:1px solid #e8e8e8;font-weight:700;margin-top:20px}.review_item{border-bottom:1px solid #e8e8e8;margin-bottom:15px;padding:0
+0 15px 0}.review_user{font-weight:700}.review_time{}.review_text{padding-top:15px}.review_mark{color:#333;height:18px}#jshop_review_write
+td{vertical-align:top}#jshop_review_write
+.inputbox{border-radius:3px;-webkit-border-radius:3px;width:180px;overflow:auto}.stars_no_active{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/star.gif);background-position:0 0;background-repeat:repeat-x;height:16px}.stars_active{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/star.png);background-position:0 -16px;background-repeat:repeat-x;height:16px}span.review{display:block;font-weight:700;margin-bottom:10px;color:#000}.jshop_list_product
+.count_commentar{color:#313131;float:right}.jshop_list_product .jshop
+.jshop_price{color:#e10707;font-size:14px;text-align:center;margin-top:5px}.jshop_list_product .jshop
+.old_price{color:#999;margin-bottom:15px}.jshop_list_product .jshop .old_price
+span{font-style:normal;text-decoration:line-through}.productfull .product-detail
+.old_price{margin-bottom:15px}.productweight{margin-bottom:15px}.jshop_list_product
+.description{color:#888;margin-bottom:15px}.jshop_list_product .jshop
+.buttons{overflow:hidden}.jshop_list_product .jshop .buttons
+a{color:#313131;font-weight:700;margin-right:10px;margin-top:10px;text-decoration:underline;display:inline-block}.jshop_list_product .jshop .buttons
+.addtocart{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/btn-addtocart.gif) left top no-repeat;float:right;height:26px;margin:0;overflow:hidden;text-decoration:none;text-indent: -999em;width:26px;display:block}.jshop_list_product .jshop .buttons a:hover,
+.jshop_list_product .jshop .buttons a:focus,
+.jshop_list_product .jshop .buttons a:active{color:#CF1F18;background-position:0 -26px}.productfull
+.jshop{float:left;margin:20px
+10px 0 0;min-width:220px;overflow:hidden}div.productfull .product-image{min-height:175px}.product-image{position:relative}.product_label{position:absolute;right:-3px;top:-3px}.productfull .product-image
+a{display:block;margin-bottom:20px}.productfull .product-image
+img{max-width:320px}.productfull
+.jshop_img_description{width:100%;display:inline-block}.productfull .jshop_img_description
+img{border:1px
+solid #ccc;margin-right:5px;padding:5px;height:50px;margin-bottom:5px;border-radius:5px;-webkit-order-radius:5px;padding:3px;-moz-box-shadow:inset 0 0 5px #ddd;-webkit-box-shadow:inset 0 0 5px#ddd;box-shadow:inner 0 0 5px #ddd}.productfull .jshop_img_description img:hover{cursor:pointer;border-color:#a5a5a5;background:#ddd}.price_prod_qty_list_head{font-weight:700;color:#222;margin-bottom:5px}.price_prod_qty_list{margin-bottom:20px;background:#f6f6f6;border-radius:5px;-webkit-border-radius:5px}.price_prod_qty_list
+td{padding:5px
+10px}.price_prod_qty_list
+span{color:#CF1F18;font-weight:700}.price_prod_qty_list
+.per_piece{color:#7B7B7B;font-weight:normal}.price_prod_qty_list .qty_line, .price_prod_qty_list
+.qty_to{padding-left:15px;padding-right:15px}.productfull .product-detail{}.productfull .product-detail
+h1{font-family:"abelregular",Arial,sans-serif;font-size:260%;font-weight:100;margin:0
+0 10px 0;text-transform:none}.productfull .rating-hits{margin-bottom:5px}.productfull .rating-hits
+td{padding:0
+10px 0 0;vertical-align:top}.productfull
+.jshop_prod_description{margin-bottom:10px}.jshop_button_print{margin-bottom:5px;text-align:right}.prod_price{line-height:1;margin:15px
+0;display:inline-block}.prod_price
+span{color:#CF1F18;font-size:180%;font-weight:700}.prod_price
+strong{color:#000;font-size:180%;margin-right:10px;font-weight:normal}.prod_buttons{margin:0
+0 65px 0;overflow:hidden}.prod_buttons
+td{vertical-align:middle}.productfull{}.productfull .product-detail .prod_buttons
+li{background:none;margin-bottom:0;padding-left:0;padding-right:5px;line-height:normal;display:inline;float:left}.productfull .product-detail .prod_buttons .buttons
+.button{margin:0
+2px 0 0}.productfull .product-detail .prod_buttons
+.old_price{margin-bottom:15px}.productfull .product-detail .prod_buttons .old_price
+strong{font-size:110%}.productfull .product-detail .prod_buttons .old_price
+span{text-decoration:line-through}.productfull .product-detail .prod_buttons
+.prod_qty{font-weight:700;line-height:2}.productfull .product-detail .prod_qty_input
+.inputbox{border:1px
+solid #ddd;border-radius:3px;line-height:1.3;padding:4px
+2px;text-align:center;-webkit-border-radius:3px;margin-right:0}.productfull .product-detail
+li.buttons{padding:0;margin-top:10px}.rating-hits
+.hits{float:right}.productfull
+.review_header{color:#CF1F18;font-family:"abelregular",Arial,sans-serif;font-size:175%;line-height:1.3;margin-bottom:20px;margin-top:20px;text-transform:uppercase;border-bottom:1px solid #E8E8E8;padding-top:30px;font-weight:normal;padding-bottom:5px}.productfull .product-detail .buttons
+.button{margin:0
+5px 0 0;display:inline-block;padding:4px
+8px}.productfull .review_item
+.review_user{color:#222;font-size:110%;font-weight:700}.productfull .review_item
+.review_time{color:#aaa;font-size:92%}.productfull
+.review_mark{float:right;margin:0
+0 0 10px}table.tblsearch{width:100%}table.tblsearch th,
+table.tblsearch
+td{border:0;border-bottom:1px solid #ddd;padding:5px
+10px}table.tblsearch
+th{background:#f0f0f0;color:#333;text-align:left;text-shadow:none}table.tblsearch
+#category_id{margin-bottom:3px}table.tblsearch
+#include_subcat{vertical-align:middle;margin-left:0}.button.btnsearch{margin-top:20px}table.tblsearch
+#list_characteristics{border:medium none}.jshop_list_manufacturer{margin-bottom:20px}.jshop_list_manufacturer
+table{width:100%}.jshop_list_manufacturer .manufacturer tr
+td{border-bottom:1px solid #e8e8e8}.jshop_list_manufacturer table
+td.image{vertical-align:top;width:120px}.jshop_list_manufacturer table td.image
+a{display:block}.jshop_list_manufacturer table td
+a.product_link{font-size:120%;font-weight:700}.jshop_list_manufacturer
+.manufacturer_short_description{margin-top:5px}.jshop_list_manufacturer
+.manufacturer_url{text-align:right}.jshop_list_manufacturer .manufacturer_url
+a{color:#666;font-size:92%;font-weight:700}.jshop_list_manufacturer .manufacturer_url a:hover{color:#cf1f18}table.cart-table{width:100%;margin-top:10px}table.cart-table
+th{background:#f1f1f1;border:1px
+solid #eee;color:#666;padding:8px
+10px;text-align:center}table.cart-table th
+img{vertical-align:middle}table.cart-table
+td{border-bottom:1px solid #eee;padding:5px
+10px}table.cart-table td.jshop_img_description_center
+a{display:block;margin:10px
+0}table.cart-table
+.jshop_img{background:#f0f0f0;border:1px
+solid #ddd;padding:2px}table.cart-table
+.even{background:#f9f9f9}table.subtotal-table{margin-bottom:20px;text-align:right;width:100%}table.subtotal-table
+th{width:85%}table.subtotal-table th,
+table.subtotal-table
+td{border:0;text-align:right}table.subtotal-table td.value
+strong.subtotal{background:#fcfcfc;border-top:1px solid #ddd;color:#cf1f18;display:block;font-weight:700}.jshop-actions{border-top:1px dashed #ccc;margin-top:20px;padding:15px
+0 20px}.jshop-actions
+a{padding:4px
+7px;color:#fff;cursor:pointer;text-shadow:0px 1px 1px #868686;border:1px
+solid #79b7dd;border-bottom:1px solid #67a6cd;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/button.png) repeat-x 0 0 #76b7e0;border-radius:5px;-webkit-border-radius:5px}.jshop-actions a:hover, .jshop-actions a:focus, .jshop-actions a:active{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/button.png) repeat-x 0 0 #CF1F18;border:1px
+solid #b4120c}.jshop-actions a.btn-backtoshop{float:left}.jshop-actions a.btn-checkout{float:right}.discount-code{margin-bottom:20px}.discount-code
+p{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/pattern-grey.gif) #fff;padding:5px
+8px;float:left;clear:both;overflow:hidden}.discount-code p label, .discount-code p
+input{float:left}.discount-code p
+label{line-height:2.1;padding-right:8px}.discount-code
+.inputbox{border:1px
+solid #ddd;margin-right:8px;padding:4px}.discount-code
+.button{padding:0
+10px}#jshop-login{padding:0}.login_block{float:left;padding:0
+0 10px;width:58%}.register_block{float:right;padding:0
+0 10px;width:40%}*+ html
+.register_block{width:49.9%}.login_block .small_header,
+.register_block
+.small_header{background:#eaeaea;border-bottom:1px solid #d8d8d8;display:block;font-size:100%;font-weight:700;margin:0
+0 10px 0;padding:5px
+10px;text-transform:uppercase;border-radius:5px;-moz-box-shadow:inset 0 0 5px #ccc;-webkit-box-shadow:inset 0 0 5px #ccc;box-shadow:inset 0 0 5px #ccc}.login_block-inner{padding:0
+10px}.register_block
+.small_header{background-image:none;margin:0
+0 10px 0}.register_block_ct{padding:0
+10px}.login_block
+.inputbox{border:1px
+solid #ddd;margin-right:5px;padding:5px}#jshop-login
+.button{margin:5px
+0 5px 5px;vertical-align:middle}.jshop_register
+td.name{font-weight:700;width:140px}.jshop_delivery_address{width:100%;overflow:hidden}.jshop_delivery_address
+.lbl{display:inline-block;width:145px;font-weight:700}#jshop_menu_order{margin:20px
+0;width:100%}#jshop_menu_order td
+#active_step{background:#76B7E0;color:#fff;font-weight:700;padding:5px
+15px}#jshop_menu_order td
+a{font-weight:700}.other-info{background:#ffffdb;border:1px
+dashed #ddd;margin:0
+0 20px;padding:10px}.row_agb{font-size:92%}#order_add_info{border-radius:0;height:100px;-webkit-border-radius:0;width:300px}.jshop_module_cart_inner{border-bottom:1px dotted #ccc;color:#454545;font-size:116%;font-weight:700;margin-bottom:15px;overflow:hidden;padding:10px
+10px 10px 65px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/icon_cart.png) 5px 10px no-repeat #fafafa}#jshop_quantity_products{display:block}#jshop_summ_product{color:#BF4253;display:block}#jshop_module_cart .btn-cart{margin-top:0}.btn-cart
+a{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/button.png) repeat-x #76b7e0;border:none;color:#fff;cursor:pointer;display:inline-block;text-shadow:0 1px 1px #868686;line-height:17px;padding:4px
+10px;border-radius:3px;-webkit-border-radius:3px;border:1px
+solid #79B7DD}.btn-cart a:hover{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/button.png) repeat-x 0 0 #CF1F18;border:1px
+solid #b4120c;text-decoration:none}.jshop_menu_level_0,.jshop_menu_level_0_a{margin-bottom:5px;overflow:hidden}.jshop_menu_level_0
+a{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/pattern-grey.gif) #fcfcfc;color:#444;display:inline-block;font-weight:bold;padding:2px
+25px 3px 15px;text-decoration:none;text-shadow:1px 1px 0px #fff;border-radius:10px;-webkit-border-radius:10px}.jshop_menu_level_0_a
+a{background:#CF1F18;border-radius:10px;color:#fff;display:inline-block;padding:2px
+25px 2px 15px;text-decoration:none;-webkit-border-radius:10px}.jshop_menu_level_0 a:hover{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/pattern-hover.gif) #666;color:#fff;text-shadow:1px 1px 0px #333}div.top_rating{margin:10px
+0}div.top_rating
+.block_item{border-top:1px solid #eee;margin-bottom:13px;overflow:hidden;padding-top:13px;width:100%}div.top_rating .block_item:first-child{border-top:none;padding-top:0}div.top_rating
+.item_image{float:left;margin:5px
+10px 5px 0;height:50px;width:auto;min-width:0;min-height:0;border:none;padding:0;overflow:hidden}div.top_rating .item_image
+img{width:65px}div.top_rating
+.item_name{margin:0px;color:#333;font-size:12px;text-align:left;overflow:hidden;height:35px}div.top_rating .item_name
+a{color:#333}div.top_rating .item_name a:hover{color:#CF1F18}div.top_rating
+.item_price{color:#E10707;font-weight:700;font-size:12px;text-align:left}.joomshopping-tags
+a{border-radius:5px;color:#444;display:inline-block;margin:0
+3px 3px 0;padding:2px
+5px;-webkit-border-radius:5px}.joomshopping-tags a:hover{background:#CF1F18;color:#fff;text-decoration:none}.joomshopping-tags
+font{display:block}#maxx_copyright{clear:both;color:#999;display:block;font-size:10px;padding-top:10px;text-align:center}.table_order_list{width:100%}.jshop-order{width:99.5%;margin-bottom:20px;border:1px
+dashed #ddd;background:#FFFFDB}.jshop-order
+td{padding:7px}.jshop-order td
+td{padding:0}.downlod_order_invoice{margin-bottom:15px;text-align:right;padding-right:2px;overflow:hidden}.downlod_order_invoice
+a{background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/pattern-bg.gif) 0 0 repeat #3A3A3A;border:medium none;border-radius:3px 3px 3px 3px;color:#fff;cursor:pointer;display:inline-block;font-size:92%;font-weight:bold;line-height:17px;padding:4px
+10px;text-shadow:1px 1px 0 #000}.downlod_order_invoice a:hover, .btn-cart a:hover{background:url(http://localhost/hogwel.ua/templates/images/button.png) repeat-x 0 0  #CF1F18;text-decoration:none;text-shadow:1px 1px 0 #CF1F18}.jshop-table{width:100%;margin-bottom:20px}.jshop-table
+td{border-bottom:1px dotted #ccc;vertical-align:top}.jshop-table .first td, .jshop-table
+th{background:#ccc;color:#000}.cart
+.odd{border:none}.jshop_subtotal{width:100%}.weightorder{margin-bottom:20px}.order-history td
+td{border-bottom:none}.productfull .realted-products{float:none;width:100%;margin:0}.jshop-titleheading-2{border-bottom:1px solid #e8e8e8;font-size:180%;padding-bottom:5px !important;margin:20px
+0 !important}.realted-products
+.product_row{margin-bottom:15px;padding-top:15px;border-top:1px dotted #C3C3C3}.realted-products .product_row:first-child{padding-top:0;border-top:none}.realted-products
+.jshop_related{float:left}.realted-products .jshop_related
+.product{border-right:1px dotted #C3C3C3;padding:0
+16px 5px 16px}.realted-products .block-last
+.product{border-right:none}.realted-products .product
+.name{font-size:140%;margin-bottom:15px}.realted-products .product .name
+a{color:#000;font-weight:normal}.realted-products .product .name a:hover{color:#CF1F18}.productfull .realted-products .product-image{margin-bottom:15px}.realted-products
+.jshop_price{color:#CF1F18;font-family:"abelregular",Arial,sans-serif;font-size:150%;font-weight:700;line-height:1;margin-bottom:10px}.productfull .realted-products .product-image
+a{margin-bottom:0}#tr_payment_pm_bank td, #tr_payment_pm_purchase_order td, #tr_payment_pm_paypal
+td{display:none}#tr_payment_pm_debit td
+td{background:none repeat scroll 0 0 #E8E8E8}div.default-v{margin:10px
+0}div.default-v li.active .item-m{background:url("http://localhost/hogwel.ua/templates/zt_opis25/images/moduletitle.png") repeat-x 0 bottom !important}div.default-v div.jv-drawer div.title-l{width:auto;height:5px;background:#fff;border:1px
+solid #dadada;border-bottom:none}div.default-v li.item div.item-bg div.item-m
+.article{padding:0
+10px}div.default-v li.item div.item-bg div.item-m
+.article{line-height:18px}div.default-v div.jv-drawer ul.list
+li.item{border-bottom:none}div.default-v div.jv-drawer ul.list li.item.item1 .item-bg{border-top:none}div.default-v div.jv-drawer ul.list li.item .item-bg{border:1px
+solid #dadada}h3.title-draw{color:#1285bd;font-size:12px;margin:10px
+0 0;float:left}div.mod_jvsello2_headline{position:relative}.jvcarousel-item{margin:0;padding:0}.jvcarousel-item
+img{float:none;border:none;margin:0}.jvcarousel_frame{margin-top:3em}div.jvcarousel-image{float:right;overflow:hidden;margin-left:30px}h3.jvcarousel_title{margin:1em
+0 1.5em;font-weight:normal;line-height:60px}a.jvcarousel_mtitle{display:block;font-size:55px}.jvcarousel-item{font-size:12px}.jvcarousel-item
+p{margin:10px
+0;font-size:18px;line-height:25px}.jvcarousel-item a.readmore,
+.jvcarousel-item
+a.thebuy{margin:10px
+0;width:155px;padding-right:10px;height:42px;display:block;float:left;font-size:20px;line-height:38px;text-align:right;color:#386a83 !important;text-shadow:1px 1px #fff;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/slide-more.png) no-repeat 0 0}.jvcarousel-item a.readmore:hover{background-position:bottom left;color:#964600 !important;text-shadow:1px 1px #ffc492}.jvcarousel-pagi{display:table;margin:-30px auto 0;float:none;z-index:10}.jvcarousel-pagi span.pre,
+.jvcarousel-pagi
+span.next{width:58px;height:58px;display:block;position:absolute;top:30%;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/slide-hand.png) no-repeat right top}.jvcarousel-pagi
+span.pre{left:-120px}.jvcarousel-pagi span.pre:hover{background-position:right -60px}.jvcarousel-pagi
+span.next{right:-120px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/slide-hand.png) no-repeat left top}.jvcarousel-pagi span.next:hover{background-position:left -60px}.jvcarousel-pagi
+.handles{margin:0}.jvcarousel-pagi .handles
+.handles_item{height:14px;width:14px;display:block;text-indent:-999em;margin-right:15px;position:relative;z-index:30;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/slide-hand.png) no-repeat -27px -129px}.jvcarousel-pagi .handles
+.handles_item.active{background-position:0 -129px}div.latestnews{margin:10px
+0}div.latestnewsitems{border-bottom:1px solid #eee;padding-bottom:5px;margin-bottom:5px}div.latestnewsitems
+img{background:#e9e9e9;padding:3px}div.latestnewsitems
+h4{font-size:100%;font-weight:normal}div.betsell{margin-top:-51px}div.betsell
+h3.moduletitle{border-color:#619fc8;border-bottom:1px solid #DADADA}div.second-scroll{padding:15px
+0 10px;border:none}div.itemproduct-inner{padding:7px}div.item_image{display:table-cell;text-align:center;vertical-align:middle;min-width:140px;height:110px}div.item_image
+img{display:block;margin:auto}div.item_name{min-height:36px;margin:10px
+0 5px}div.itemproduct-inner:hover{background:#efefef;min-height:185px;-moz-box-shadow:inset 0 0 15px #ccc;-webkit-box-shadow:inset 0 0 15px #ccc;box-shadow:inset 0 0 15px #ccc}div.itemproduct-inner:hover
+div.item_image{border:1px
+solid #b5b5b5}div.itemproduct-inner:hover div.item_name
+a{color:#E10707}div.pagenav .pre-scroll,
+div.pagenav .next-scroll{width:18px;height:30px;position:absolute;display:block;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/pagenav.png) no-repeat 0 bottom;top:40%}div.pagenav .pre-scroll{left:10px}div.pagenav .next-scroll{right:10px;background-position:right bottom}div.pagenav .pre-scroll:hover{background-position:left top}div.pagenav .next-scroll:hover{background-position:right top}#jshop_module_cart{width:100%;display:inline-block;margin:10px
+0}.jv_twitter li.jv_twitter_item,
+ul.jv_user_timeline
+li.jv_twitter_item{border-bottom:none;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/line-hori.png) repeat-x left bottom;display:block;overflow:visible}.jv_wrap_twitter
+.jv_twitter_status{margin-bottom:10px}span.jv_twitter_infos
+a.date_no_from_web{font-weight:normal}.jv_twitter li.jv_twitter_item:last-child{background:none}#zt-userwrap4 div.zt-user{float:right}div.moduletable.no-content
+div.modulecontent{padding:0;border:none;background:none;border-radius:0}#zt-left ul.menu li,
+#zt-right ul.menu li,
+ul.jshop_menu
+li{background:none;padding:5px
+10px;border-bottom:1px solid #ebebeb}#zt-left ul.menu li:hover,
+#zt-right ul.menu li:hover,
+ul.jshop_menu li:hover,
+ul.jshop_menu
+li.level_0_a{background:#f0f0f0}ul.jshop_menu li
+a{color:#595959;display:block;font-family:'Metrophobic';font-size:115%;text-shadow:1px 1px 0 #fff}ul.jshop_menu li a:hover ,
+ul.jshop_menu li.level_0_a
+a{color:#228DC2}div.modulecontent
+ul.jshop_menu{margin:10px
+-10px;padding:0}#zt-newletter{margin:10px
+0 0;padding:10px
+0}#zt-newletter
+span{text-shadow:0px 1px 1px #fff}#zt-newletter
+.email{float:left;margin:4px
+5px 4px 0;padding:5px
+8px;font-family:arial}ul.share{margin:20px
+0;float:left}ul.share
+li{background:none;float:left;margin-right:10px;padding:0}ul.share li:hover>div{}div.moduletable
+.widget{width:48px;height:48px;display:block;display:none;position:absolute;top:-2px;right:-2px;z-index:10}div.moduletable h3>span.icon{display:none;float:left;height:30px;overflow:hidden;position:relative;top: -6px;width:30px;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/icon/icon-title.png) no-repeat }div.icon-twitter h3>span.icon{display:block;background-position:0 0px}div.icon-facebook h3>span.icon{display:block;background-position:0 -30px}div.icon-cart h3>span.icon{display:block;background-position:0 -60px}div.icon-bubble h3>span.icon{display:block;background-position:0 -90px}div.icon-login h3>span.icon{display:block;background-position:0 -120px}div.icon-media h3>span.icon{display:block;background-position:0 -150px}div.icon-app h3>span.icon{display:block;background-position:0 -180px}div.icon-letter h3>span.icon{display:block;background-position:0 -205px}div.moduletable.widget-hot .widget,
+div.moduletable.widget-new .widget,
+div.moduletable.widget-top .widget,
+div.moduletable.widget-free
+.widget{display:block;background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/style/default/mod_badges.png) }div.moduletable.widget-hot
+.widget{background-position:0 0}div.moduletable.widget-top
+.widget{background-position:0 -50px}div.moduletable.widget-free
+.widget{background-position:0 -100px}div.moduletable.widget-new
+.widget{background-position:0 -150px}div.moduletable
+.code{padding:5px
+10px;background:#ededed;font-family:"Courier News",monospace}div.moduletable
+.code{border:1px
+dashed #bbb;color:#333}div.no-style.no-style
+h3.moduletitle{background-image:none;border:none;color:#3a3a3a}div.no-style.no-style
+div.modulecontent{background:none;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none}div.no-style
+.code{border:1px
+dashed #bbb;color:#333;background:#fff}div.style-blue
+h3.moduletitle{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/style/blue/modtitle.png);border:1px
+solid #8abedf;color:#3a3a3a}div.style-blue
+div.modulecontent{background-color:#d9f0ff;border-color:#9ecbe9;-moz-box-shadow:inset 0 0 5px #9fd7fc;-webkit-box-shadow:inset 0 0 5px#9fd7fc;box-shadow:inner 0 0 5px #9fd7fc}div.style-blue.widget-hot .widget,
+div.style-blue.widget-new .widget,
+div.style-blue.widget-top .widget,
+div.style-blue.widget-free
+.widget{display:block;background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/style/blue/mod_badges.png) }div.style-blue.widget-hot
+.widget{background-position:0 0}div.style-blue.widget-top
+.widget{background-position:0 -50px}div.style-blue.widget-free
+.widget{background-position:0 -100px}div.style-blue.widget-new
+.widget{background-position:0 -150px}div.style-blue
+.code{border:1px
+dashed #84bfe6;color:#2f7fb2;background:#fff}div.style-blue ul.jshop_menu li,
+#zt-left div.style-blue ul.menu li,div.latestnewsitems{border-bottom:1px solid #a8d8f8;box-shadow:0 1px 0 #f4f4f4}div.style-blue ul.jshop_menu li:hover,
+div.style-blue ul.jshop_menu li.level_0_a,
+#zt-left div.style-blue ul.menu li:hover{background:#f1f9fe}div.style-blue div.latestnewsitems
+img{background:#fff;border:1px
+solid #a8d8f8}div.style-red
+h3.moduletitle{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/style/red/modtitle.png);border:1px
+solid #dc2b2b;text-shadow:1px 1px 0px #fd9ea0}div.style-red
+div.modulecontent{background-color:#f6d9d9;border-color:#fe9d9e;-moz-box-shadow:inset 0 0 5px #efadae;-webkit-box-shadow:inset 0 0 5px#bde292;box-shadow:inner 0 0 5px #bde292}div.style-red.widget-hot .widget,
+div.style-red.widget-new .widget,
+div.style-red.widget-top .widget,
+div.style-red.widget-free
+.widget{display:block;background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/style/red/mod_badges.png) }div.style-red.widget-hot
+.widget{background-position:0 0}div.style-red.widget-top
+.widget{background-position:0 -50px}div.style-red.widget-free
+.widget{background-position:0 -100px}div.style-red.widget-new
+.widget{background-position:0 -150px}div.style-red
+.code{border:1px
+dashed #da2727;color:#d73233;background:#fff}div.style-red ul.jshop_menu li,
+#zt-left div.style-red ul.menu
+li{border-bottom:1px solid #eab3b3;box-shadow:0 1px 0 #fae9e9}div.style-red ul.jshop_menu li:hover,
+#zt-left div.style-red ul.menu li:hover{background:#fae9e9}div.style-red ul.jshop_menu li:hover a,
+#zt-left div.style-red ul.menu li:hover
+a{color:#d01f1f;text-shadow:0 0 3px #eab3b3}div.style-green
+h3.moduletitle{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/style/green/modtitle.png);border:1px
+solid #6aba40;text-shadow:1px 1px 0px #a4ea80}div.style-green
+div.modulecontent{background-color:#e4efd7;border-color:#90c972;-moz-box-shadow:inset 0 0 5px #bde292;-webkit-box-shadow:inset 0 0 5px#bde292;box-shadow:inner 0 0 5px #bde292}div.style-green.widget-hot .widget,
+div.style-green.widget-new .widget,
+div.style-green.widget-top .widget,
+div.style-green.widget-free
+.widget{display:block;background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/style/green/mod_badges.png) }div.style-green.widget-hot
+.widget{background-position:0 0}div.style-green.widget-top
+.widget{background-position:0 -50px}div.style-green.widget-free
+.widget{background-position:0 -100px}div.style-green.widget-new
+.widget{background-position:0 -150px}div.style-green
+.code{border:1px
+dashed #55b025;color:#55b025;background:#fff}div.style-green ul.jshop_menu li,
+#zt-left div.style-green ul.menu
+li{border-bottom:1px solid #c6daaf;box-shadow:0 1px 0 #f1f8e8}div.style-green ul.jshop_menu li:hover,
+#zt-left div.style-green ul.menu li:hover{background:#f0f8e7}div.style-green ul.jshop_menu li:hover a,
+#zt-left div.style-green ul.menu li:hover
+a{color:#3c9a0b;text-shadow:0 0 3px #90c972}div.style-oranges
+h3.moduletitle{background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/style/oranges/modtitle.png);border:1px
+solid #ec6000;text-shadow:1px 1px 0px #ffae77}div.style-oranges
+div.modulecontent{background-color:#fde6d6;border-color:#ffa86c;-moz-box-shadow:inset 0 0 5px #fcb583;-webkit-box-shadow:inset 0 0 5px#fcb583;box-shadow:inner 0 0 5px #fcb583}div.style-oranges.widget-hot .widget,
+div.style-oranges.widget-new .widget,
+div.style-oranges.widget-top .widget,
+div.style-oranges.widget-free
+.widget{display:block;background-image:url(http://localhost/hogwel.ua/templates/zt_opis25/images/style/oranges/mod_badges.png) }div.style-oranges.widget-hot
+.widget{background-position:0 0}div.style-oranges.widget-top
+.widget{background-position:0 -50px}div.style-oranges.widget-free
+.widget{background-position:0 -100px}div.style-oranges.widget-new
+.widget{background-position:0 -150px}div.style-oranges
+.code{border:1px
+dashed #e46005;color:#e46005;background:#fff}div.style-oranges ul.jshop_menu li,
+#zt-left div.style-oranges ul.menu
+li{border-bottom:1px solid #FCB583;box-shadow:0 1px 0 #fcf4ee}div.style-oranges ul.jshop_menu li:hover,
+#zt-left div.style-oranges ul.menu li:hover{background:#fcefe6}div.style-oranges ul.jshop_menu li:hover a,
+#zt-left div.style-oranges ul.menu li:hover
+a{color:#d45702;text-shadow:0 0 3px #FCB583}#maxx_copyright{width:100%;display:inline-block;text-align:center;margin:10px
+0}#maxx_copyright
+a{color:#ccc}ul.product{overflow:hidden;padding:5px
+5px 15px;margin:0
+0 10px}ul.product
+li{margin:0;background:none;padding:0}.product
+.nameproduct{text-align:center;display:block;margin-top:10px;padding-right:15px}.product .nameproduct
+a{color:#333}div.bt-buy{width:119px;height:27px;line-height:27px;text-align:right;display:block;font-size:14px;margin:10px
+auto 0;background:url(http://localhost/hogwel.ua/templates/zt_opis25/images/joomshop/bt-buy.png) no-repeat 0 0}div.bt-buy
+a{display:block;margin:0
+10px 0 0;color:#fff}ul.product:hover{background:#efefef}ul.product:hover .nameproduct
+a{color:#e10707}ul.product:hover .jshop-product-img{border:1px
+solid #b8b8b8}ul.product:hover div.bt-buy{background-position:left bottom}.jshop_price{color:#e10707;font-size:14px;text-align:center;margin-top:5px}.product .jshop-product-img{display:block;padding:10px;border:1px
+solid #ddd;width:125px;height:90px;background:#fff;text-align:center}.product .jshop-product-img
+a{display:block;overflow:hidden;height:90px}.menusys_mega{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}#menusys_mega li a.active,
+#menusys_mega li a:hover,
+#menusys_mega li:hover
+a{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}#menusys_mega li.hasChild  ul a,
+#menusys_mega li.hasChild  ul a.active,
+#menusys_mega li.hasChild:hover ul
+a{-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px}#menusys_mega li.hasChild:hover
+a{-webkit-border-radius:5px 5px 0 0;-moz-border-radius:5px 5px 0 0;border-radius:5px 5px 0 0}#menusys_mega .menusub_mega .mega-group{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}#menusys_mega .submenu-wrap{-webkit-border-radius:0 5px 5px 5px;-moz-border-radius:0 5px 5px 5px;border-radius:0 5px 5px 5px;-webkit-box-shadow:#666 0px 2px 3px;-moz-box-shadow:#3f3f3f 0px 2px 3px;box-shadow:#5ca4d1 1px 1px 1px}.rtl #menusys_mega .submenu-wrap{-webkit-border-radius:5px 0px 5px 5px;-moz-border-radius:5px 0px 5px 5px;border-radius:5px 0px 5px 5px}#menusys_mega div.subwrapcenter-left div.subwrapcenter-left{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}#zt-header-inner{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-webkit-box-shadow:#8C8C8C 0px 2px 5px;-moz-box-shadow:#8C8C8C 0px 2px 5px;box-shadow:#8C8C8C 0px 0px 5px}#zt-mainframe-inner,#zt-component-inner{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}div.default-v div.jv-drawer ul.list li.item .item-bg{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}div.default-v div.jv-drawer div.title-l{-webkit-border-radius:5px 5px 0 0;-moz-border-radius:5px 5px 0 0;border-radius:5px 5px 0 0}div.default-v div.jv-drawer ul.list li.item.item1 .item-bg{-webkit-border-radius:0 0 5px 5px;-moz-border-radius:0 0 5px 5px;border-radius:0 0 5px 5px}#zt-left ul.menu li,
+#zt-left ul.jshop_menu li,
+#menusys_mega li.hasChild  ul
+a{-moz-transition:background-color 0.5s ease 0s;-webkit-transition:background-color 0.5 ease 0s;-o-transition:background-color 0.5s ease 0s}#zt-left ul.menu li:hover,
+#zt-left ul.jshop_menu li:hover,
+#menusys_mega li.hasChild  ul a:hover{-webkit-transition:background-color 0.1s ease 0s;-moz-transition:background-color 0.1s ease 0s;-o-transition:background-color 0.1s  ease 0s}.jvcarousel-item a.readmore,
+.jvcarousel-item
+a.thebuy{opacity:1;-webkit-transition:opacity;-webkit-transition-timing-function:ease-out;-webkit-transition-duration:0.5ms}.jvcarousel-item a.readmore:hover,
+.jvcarousel-item a.thebuy:hover{-webkit-transition:opacity;-webkit-transition-timing-function:ease;-webkit-transition-duration:3s}h3.jvcarousel_title{text-shadow:2px 1px 0px #cdecfc;filter:dropshadow(color=#cdecfc, offx=2, offy=1)}.jvcarousel-item
+p{text-shadow:1px 1px 0px #cdecfc;filter:dropshadow(color=#cdecfc, offx=1, offy=1)}div.itemproduct-inner,
+.jshop_list_product .jshop .jshop_categ
+.product{-moz-transition:background-color 0.5s ease 0s;-webkit-transition:background-color 0.5 ease 0s;-o-transition:background-color 0.5s ease 0s;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}div.itemproduct-inner:hover,
+.jshop_list_product .jshop .jshop_categ .product:hover{-webkit-transition:background-color 0.1s ease 0s;-moz-transition:background-color 0.1s ease 0s;-o-transition:background-color 0.1s  ease 0s}.itemListSubCategories h3,h1.componentheading,.componentheading{-webkit-border-radius:5px 5px 0 0;-moz-border-radius:5px 5px 0 0;border-radius:5px 5px 0 0}h3.moduletitle,h1.listproduct,h1.jshop-titleheading,.jshop-pagetitle{-webkit-border-radius:5px 5px 0 0;-moz-border-radius:5px 5px 0 0;border-radius:5px 5px 0 0}div.modulecontent{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}#menusys_mega .menusub_mega .mega-module
+a.readmore{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}.inputbox{-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}.button, .btn-cart a,a.k2ReadMore,a.catComments,button.validate{-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-webkit-box-shadow:#ccc 0px 2px 5px;-moz-box-shadow:#ccc 0px 1px 2px;box-shadow:#ccc 0px 1px 2px;-webkit-transition:all 0.2s ease 0s;-moz-transition:all 0.2s ease 0s;-o-transition:all 0.2s ease 0s}a{-webkit-transition:color 0.2s ease 0s;-moz-transition:color 0.2s ease 0s;-o-transition:color 0.2s ease 0s}

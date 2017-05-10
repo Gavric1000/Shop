@@ -1,0 +1,17 @@
+/*
+	For megamenu
+*/
+
+#menusys_mega .fancy{
+	margin: 0;
+	position: absolute;
+	visibility: hidden;
+	z-index: 8;
+}
+#menusys_mega .fancy .fancy-center {
+     margin: 0;
+     height: 44px;
+     background: #AB5B5B;
+}
+#menusys_mega .fancy .fancy-right{}
+#menusys_mega .fancy .fancy-left{}
